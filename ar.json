@@ -1,0 +1,2832 @@
+[
+    {
+        "id": "ORDER_BUTTON_QTY_RATE_ERROR",
+        "context": "js",
+        "english": "Order quantity and price must be specified.",
+        "translation": "يجب تحديد كمية وسعر الطلب."
+    },
+    {
+        "id": "RESERVES_DEFICIT_MSG",
+        "context": "js",
+        "english": "The apparent wallet balance shortcoming to maintain bonding level. If this persists, you may need to add funds to stay fully bonded.",
+        "translation": "النقص في رصيد المحفظة القابل للوصول للحفاظ على مستوى السند. إذا استمر هذا الوضع، قد تحتاج إلى إضافة أموال للبقاء مضمونا بسند."
+    },
+    {
+        "id": "INVALID_CERTIFICATE",
+        "context": "js",
+        "english": "Invalid Certificate",
+        "translation": "شهادة غير صالحة"
+    },
+    {
+        "id": "AVAILABLE_TITLE",
+        "context": "js",
+        "english": "Available",
+        "translation": "متاح"
+    },
+    {
+        "id": "USER_ADDED",
+        "context": "js",
+        "english": "Added",
+        "translation": "تمت الإضافة"
+    },
+    {
+        "id": "TICKET_STATUS_UNSPENT",
+        "context": "js",
+        "english": "unspent",
+        "translation": "غير منفقة"
+    },
+    {
+        "id": "TX_TYPE_TICKET_VOTE",
+        "context": "js",
+        "english": "Ticket vote",
+        "translation": "تصويت التذكرة"
+    },
+    {
+        "id": "DISCONNECTED",
+        "context": "js",
+        "english": "Disconnected",
+        "translation": "انقطع الاتصال"
+    },
+    {
+        "id": "SHIELDED",
+        "context": "js",
+        "english": "Shielded",
+        "translation": "محمية"
+    },
+    {
+        "id": "TICKET_STATUS_EXPIRED",
+        "context": "js",
+        "english": "expired",
+        "translation": "منتهية الصلاحية"
+    },
+    {
+        "id": "TX_TYPE_REFUND",
+        "context": "js",
+        "english": "Refund",
+        "translation": "استرداد"
+    },
+    {
+        "id": "DISCOVERED",
+        "context": "js",
+        "english": "Discovered",
+        "translation": "مكتشفة"
+    },
+    {
+        "id": "VERSION_NOT_SUPPORTED",
+        "context": "js",
+        "english": "{{ asset }} (v{{version}}) is not supported",
+        "translation": "{{ asset }} (v{{version}}) غير مدعوم"
+    },
+    {
+        "id": "NO_WALLET_MSG",
+        "context": "js",
+        "english": "Create {{ asset1 }} and {{ asset2 }} wallet to trade",
+        "translation": "أنشئ محفظة لتداول {{ asset1 }} و {{ asset2 }}"
+    },
+    {
+        "id": "NO_PLACEMENTS",
+        "context": "js",
+        "english": "must specify 1 or more placements",
+        "translation": "يجب تحديد موضع واحد أو أكثر"
+    },
+    {
+        "id": "TICKET_STATUS_UNKNOWN",
+        "context": "js",
+        "english": "unknown",
+        "translation": "غير معروفة"
+    },
+    {
+        "id": "MATCH_STATUS_MAKER_REDEEMED",
+        "context": "js",
+        "english": "Maker Redeemed",
+        "translation": "استرداد صانع السوق"
+    },
+    {
+        "id": "TX_TYPE_SELF_TRANSFER",
+        "context": "js",
+        "english": "Self transfer",
+        "translation": "التحويل الذاتي"
+    },
+    {
+        "id": "TRADING_TIER_UPDATED",
+        "context": "js",
+        "english": "Trading Tier Updated",
+        "translation": "تم تحديث مستوى التداول"
+    },
+    {
+        "id": "TX_TYPE_APPROVE_TOKEN",
+        "context": "js",
+        "english": "Approve token",
+        "translation": "اعتماد التوكن"
+    },
+    {
+        "id": "CEXBALANCE_ERR",
+        "context": "js",
+        "english": "error fetching {{ cexName }} balance for {{ assetID }}: {{ err }",
+        "translation": "خطأ في جلب رصيد {{ cexName }} لـ {{ assetID }}: {{ err }}"
+    },
+    {
+        "id": "TX_TYPE_TICKET_REVOCATION",
+        "context": "js",
+        "english": "Ticket revocation",
+        "translation": "استرجاع التذكرة"
+    },
+    {
+        "id": "MAKER",
+        "context": "js",
+        "english": "Maker",
+        "translation": "صانع السوق"
+    },
+    {
+        "id": "TX_TYPE_ACCELERATION",
+        "context": "js",
+        "english": "Acceleration",
+        "translation": "التعجيل"
+    },
+    {
+        "id": "NO_ZERO",
+        "context": "js",
+        "english": "zero not allowed",
+        "translation": "الصفر غير مسموح"
+    },
+    {
+        "id": "TX_TYPE_RECEIVE",
+        "context": "js",
+        "english": "Receive",
+        "translation": "استلام"
+    },
+    {
+        "id": "INVALID_VALUE",
+        "context": "js",
+        "english": "invalid value",
+        "translation": "قيمة غير صحيحة"
+    },
+    {
+        "id": "CONNECTING_WALLET_ERR_MSG",
+        "context": "js",
+        "english": "Failed to connect {{ assetName }} wallet: {{ errMsg }}",
+        "translation": "فشل في الاتصال بمحفظة {{ assetName }}: {{ errMsg }}"
+    },
+    {
+        "id": "MATCH_STATUS_REVOKED",
+        "context": "js",
+        "english": "Revoked - {{ status }}",
+        "translation": "مسترجعة - {{ status }}"
+    },
+    {
+        "id": "LOCKED_BOND_BAL_MSG",
+        "context": "js",
+        "english": "Funds locked in active bonds",
+        "translation": "الأموال مقفلة في سندات نشطة"
+    },
+    {
+        "id": "ORDER",
+        "context": "js",
+        "english": "Order",
+        "translation": "طلب"
+    },
+    {
+        "id": "REGISTRATION_FEE_SUCCESS",
+        "version": 1,
+        "context": "js",
+        "english": "Fidelity bond accepted!",
+        "translation": "تم قبول سند الاخلاص!"
+    },
+    {
+        "id": "CONNECTED",
+        "context": "js",
+        "english": "Connected",
+        "translation": "متصل"
+    },
+    {
+        "id": "LIMIT_ORDER",
+        "context": "js",
+        "english": "limit",
+        "translation": "حد السعر"
+    },
+    {
+        "id": "LOCKED_ORDER_BAL_MSG",
+        "context": "js",
+        "english": "Funds locked in unmatched orders",
+        "translation": "الأموال مقفلة في الطلبات غير المتطابقة"
+    },
+    {
+        "id": "LIMIT_ORDER_IMMEDIATE_TIF",
+        "context": "js",
+        "notes": "i = immediate",
+        "english": "limit (i)",
+        "translation": "حد السعر (i)"
+    },
+    {
+        "id": "SWAPPING",
+        "context": "js",
+        "english": "Swapping",
+        "translation": "المقايضة"
+    },
+    {
+        "id": "REFUND_WILL_HAPPEN_AFTER",
+        "context": "js",
+        "english": "Refund will happen after {{ refundAfterTime }}",
+        "translation": "سيحدث الاسترداد بعد {{ refundAfterTime }}"
+    },
+    {
+        "id": "TAKER_FOUND_MAKER_REDEMPTION",
+        "context": "js",
+        "english": "Redeemed by {{ makerAddr }}",
+        "translation": "تم الاسترداد بواسطة {{ makerAddr }}"
+    },
+    {
+        "id": "TICKET_STATUS_REVOKED",
+        "context": "js",
+        "english": "revoked",
+        "translation": "مسترجعة"
+    },
+    {
+        "id": "MATCH_STATUS_REDEMPTION_SENT",
+        "context": "js",
+        "english": "Redemption Sent",
+        "translation": "تم إرسال الاسترداد"
+    },
+    {
+        "id": "MULTIPLIER",
+        "context": "js",
+        "english": "Multiplier",
+        "translation": "مضاعف"
+    },
+    {
+        "id": "TICKET_STATUS_VOTED",
+        "context": "js",
+        "english": "voted",
+        "translation": "مُصوِّتة"
+    },
+    {
+        "id": "BROWSER_NTFN_BONDS",
+        "context": "js",
+        "english": "Bonds",
+        "translation": "السندات"
+    },
+    {
+        "id": "ORDER_BUTTON_BUY_BALANCE_ERROR",
+        "context": "js",
+        "english": "Insufficient balance to buy.",
+        "translation": "رصيد غير كاف للشراء."
+    },
+    {
+        "id": "MATCH_STATUS_REFUNDED",
+        "context": "js",
+        "english": "Refunded",
+        "translation": "تم الاسترداد"
+    },
+    {
+        "id": "BOND_RESERVES_MSG",
+        "context": "js",
+        "english": "Funds reserved to cover the expenses associated with bond maintenance",
+        "translation": "الأموال المخصصة لتغطية النفقات المرتبطة بصيانة السندات"
+    },
+    {
+        "id": "NO_ARCHIVED_RECORDS",
+        "context": "js",
+        "english": "No archived records found",
+        "translation": "لم يتم العثور على سجلات مؤرشفة"
+    },
+    {
+        "id": "MARKET_ORDER",
+        "context": "js",
+        "english": "market",
+        "translation": "السوق"
+    },
+    {
+        "id": "WALLET_SYNC_FINISHING_UP",
+        "context": "js",
+        "english": "finishing up",
+        "translation": "الانتهاء"
+    },
+    {
+        "id": "BROWSER_NTFN_MATCHES",
+        "context": "js",
+        "english": "Matches",
+        "translation": "التطابقات"
+    },
+    {
+        "id": "NO_CEX",
+        "context": "js",
+        "english": "choose an exchange for arbitrage",
+        "translation": "اختر منصة مبادلات للمراجحة"
+    },
+    {
+        "id": "WALLET_RECOVERY_SUPPORT_MSG",
+        "context": "js",
+        "english": "Native {{ walletSymbol }} wallet failed to load properly. Try clicking the 'Recover' button below to fix it",
+        "translation": "فشل تحميل محفظة {{ walletSymbol }} الأصلية بشكل صحيح. حاول النقر على زر 'استعادة' أدناه لإصلاحها"
+    },
+    {
+        "id": "INVALID_SEED",
+        "context": "js",
+        "english": "Invalid seed",
+        "translation": "بذرة غير صحيحة"
+    },
+    {
+        "id": "INVALID_COMPS_VALUE",
+        "context": "js",
+        "english": "Invalid comps value",
+        "translation": "قيمة المقارنات غير صحيحة"
+    },
+    {
+        "id": "IMMATURE_BAL_MSG",
+        "context": "js",
+        "english": "Incoming funds awaiting confirmation",
+        "translation": "الأموال الواردة في انتظار التأكيد"
+    },
+    {
+        "id": "ARCHIVED_RECORDS_PATH",
+        "context": "js",
+        "english": "File Location: {{ path }}",
+        "translation": "موقع الملف: {{ path }}"
+    },
+    {
+        "id": "PASSWORD_RESET_SUCCESS_MSG ",
+        "context": "js",
+        "english": "Your password reset was successful. You can proceed to login with your new password.",
+        "translation": "تمت إعادة تعيين كلمة المرور الخاصة بك بنجاح. يمكنك المتابعة لتسجيل الدخول باستخدام كلمة المرور الجديدة."
+    },
+    {
+        "id": "MATCH_STATUS_NEWLY_MATCHED",
+        "context": "js",
+        "english": "Newly Matched",
+        "translation": "مطابقة حديثة"
+    },
+    {
+        "id": "TICKET_STATUS_LIVE",
+        "context": "js",
+        "english": "live",
+        "translation": "حية"
+    },
+    {
+        "id": "MATCH_STATUS_REFUND_PENDING",
+        "context": "js",
+        "english": "Refund PENDING",
+        "translation": "الاسترداد قيد الانتظار"
+    },
+    {
+        "id": "SELECT_WALLET_FOR_FEE_PAYMENT",
+        "context": "js",
+        "english": "Select a valid wallet to post a bond",
+        "translation": "حدد محفظة صالحة لنشر السند"
+    },
+    {
+        "id": "MATCH_REDEMPTION_CONFIRMED",
+        "context": "js",
+        "english": "Redemption Confirmed",
+        "translation": "تم تأكيد الإسترداد"
+    },
+    {
+        "id": "MATCH_STATUS_COMPLETE",
+        "context": "js",
+        "english": "Complete",
+        "translation": "مكتملة"
+    },
+    {
+        "id": "TICKET_STATUS_UNMINED",
+        "context": "js",
+        "english": "unmined",
+        "translation": "غير معدنة"
+    },
+    {
+        "id": "ORDER_ACCELERATION_ERR_MSG",
+        "context": "js",
+        "english": "Error accelerating order: {{ msg }}",
+        "translation": "خطأ في تسريع الطلب: {{ msg }}"
+    },
+    {
+        "id": "MISSING_CEX_CREDS",
+        "context": "js",
+        "english": "specify both key and secret",
+        "translation": "حدد كلاً من المفتاح والسر"
+    },
+    {
+        "id": "LOCKED_SWAPPING_BAL_MSG",
+        "context": "js",
+        "english": "Funds currently locked in settling matches",
+        "translation": "الأموال مقفلة حاليا في تسوية المطابقات"
+    },
+    {
+        "id": "INVALaddIDRESS_MSG",
+        "context": "js",
+        "english": "invalid address: {{ address }}",
+        "translation": "عنوان غير صحيح: {{ address }}"
+    },
+    {
+        "id": "OPEN_WALLET_ERR_MSG",
+        "context": "js",
+        "english": "Error opening wallet: {{ msg }}",
+        "translation": "خطأ في فتح المحفظة: {{ msg }}"
+    },
+    {
+        "id": "BOTTYPE_BASIC_MM",
+        "context": "js",
+        "english": "Market Maker",
+        "translation": "صانع السوق"
+    },
+    {
+        "id": "SHIELDED_MSG",
+        "context": "js",
+        "english": "Total funds kept shielded",
+        "translation": "إجمالي الأموال المحتفظ بها محمية"
+    },
+    {
+        "id": "TXFEE_ERR_MSG",
+        "context": "js",
+        "english": "fee estimation failed: {{ err }}",
+        "translation": "فشل تقدير الرسوم: {{ err }}"
+    },
+    {
+        "id": "CREATE_ASSET_WALLET_MSG",
+        "context": "js",
+        "english": "Create a {{ asset }} wallet to trade",
+        "translation": "أنشئ محفظة {{ asset }} للتداول"
+    },
+    {
+        "id": "TAKER",
+        "context": "js",
+        "english": "Taker",
+        "translation": "المستفيد"
+    },
+    {
+        "id": "LOCKED_BAL_MSG",
+        "context": "js",
+        "english": "Total funds temporarily locked to cover the costs of your bond maintenance, live orders, matches and other activities",
+        "translation": "إجمالي الأموال مقفلة مؤقتًا لتغطية تكاليف صيانة السندات، والطلبات الحية، والمطابقات والأنشطة الأخرى"
+    },
+    {
+        "id": "MATCH_STATUS_TAKER_SWAP_CAST",
+        "context": "js",
+        "english": "Taker Swap Sent",
+        "translation": "تم إرسال مقايضة المستفيد"
+    },
+    {
+        "id": "DEFAULT",
+        "context": "js",
+        "english": "Default",
+        "translation": "افتراضي"
+    },
+    {
+        "id": "NO_BOTTYPE",
+        "context": "js",
+        "english": "choose a bot type",
+        "translation": "اختر نوع البوت"
+    },
+    {
+        "id": "AVAILABLE",
+        "context": "js",
+        "english": "available",
+        "translation": "متوفر"
+    },
+    {
+        "id": "CREATING_WALLETS",
+        "context": "js",
+        "english": "Creating wallets",
+        "translation": "إنشاء المحافظ"
+    },
+    {
+        "id": "ORDER_SUBMITTING",
+        "context": "js",
+        "english": "submitting",
+        "translation": "تقديم"
+    },
+    {
+        "id": "DELETE_ARCHIVED_RECORDS_RESULT",
+        "context": "js",
+        "english": "Message: {{ nRecords }} archived records has been deleted",
+        "translation": "الرسالة: تم حذف {{ nRecords }} من السجلات المؤرشفة"
+    },
+    {
+        "id": "TICKET_STATUS_IMMATURE",
+        "context": "js",
+        "english": "immature",
+        "translation": "غير ناضجة"
+    },
+    {
+        "id": "TX_TYPE_REVOKE_TOKEN_APPROVAL",
+        "context": "js",
+        "english": "Revoke token approval",
+        "translation": "إلغاء الموافقة بالتوكن"
+    },
+    {
+        "id": "TX_TYPE_REDEEM_BOND",
+        "context": "js",
+        "english": "Redeem bond",
+        "translation": "استرداد السند"
+    },
+    {
+        "id": "BROWSER_NTFN_ENABLED",
+        "context": "js",
+        "english": "DCRDEX notifications enabled",
+        "translation": "تم تفعيل إشعارات منصة المبادلات اللامركزية لديكريد DCRDEX"
+    },
+    {
+        "id": "ORDER_ACCELERATION_FEE_ERR_MSG",
+        "context": "js",
+        "english": "Error estimating acceleration fee: {{ msg }}",
+        "translation": "خطأ في تقدير رسوم التسريع: {{ msg }}"
+    },
+    {
+        "id": "DEPTH_LOADING",
+        "context": "js",
+        "english": "retrieving depth data",
+        "translation": "استرجاع بيانات العمق"
+    },
+    {
+        "id": "MATCH_STATUS_MAKER_SWAP_CAST",
+        "context": "js",
+        "english": "Maker Swap Sent",
+        "translation": "تم إرسال مقايضة صانع السوق"
+    },
+    {
+        "id": "FEE_BALANCE",
+        "context": "js",
+        "english": "fee balance",
+        "translation": "رصيد الرسوم"
+    },
+    {
+        "id": "CONFIRMATIONS",
+        "context": "js",
+        "english": "confirmations",
+        "translation": "التأكيدات"
+    },
+    {
+        "id": "ADDING_SERVER",
+        "context": "js",
+        "english": "Connecting to servers",
+        "translation": "الاتصال بالخوادم"
+    },
+    {
+        "id": "INVALID_TIER_VALUE",
+        "context": "js",
+        "english": "Invalid tier value",
+        "translation": "قيمة المستوى غير صحيحة"
+    },
+    {
+        "id": "ACTIVE_ORDERS_LOGOUT_ERR_MSG",
+        "context": "js",
+        "english": "cannot logout with active orders",
+        "translation": "لا يمكن تسجيل الخروج مع وجود طلبات نشطة"
+    },
+    {
+        "id": "BROWSER_NTFN_ORDERS",
+        "context": "js",
+        "english": "Orders",
+        "translation": "الطلبات"
+    },
+    {
+        "id": "BOTTYPE_ARB_MM",
+        "context": "js",
+        "english": "Market Maker + Arbitrage",
+        "translation": "صانع السوق + المراجحة"
+    },
+    {
+        "id": "BONDED",
+        "context": "js",
+        "english": "Bonded",
+        "translation": "مضمون بسند"
+    },
+    {
+        "id": "BOTTYPE_SIMPLE_ARB",
+        "context": "js",
+        "english": "Simple Arbitrage",
+        "translation": "المراجحة البسيطة"
+    },
+    {
+        "id": "TX_TYPE_SEND",
+        "context": "js",
+        "english": "Send",
+        "translation": "إرسال"
+    },
+    {
+        "id": "TX_TYPE_TICKET_PURCHASE",
+        "context": "js",
+        "english": "Ticket purchase",
+        "translation": "شراء التذكرة"
+    },
+    {
+        "id": "UNSUPPORTED_ASSET_INFO_ERR_MSG",
+        "context": "js",
+        "english": "no supported asset info for id = {{ assetID }}, and no exchange info provided",
+        "translation": "لا توجد معلومات عن الأصول المدعومة للمعرف = {{ assetID }}، ولم يتم تقديم معلومات عن منصة المبادلات"
+    },
+    {
+        "id": "TICKETS_PURCHASED",
+        "context": "js",
+        "english": "Purchasing {{ n }} Tickets!",
+        "translation": "شراء {{ n }} تذاكر!"
+    },
+    {
+        "id": "REFUND_IMMINENT",
+        "context": "js",
+        "english": "Will happen in the next few blocks",
+        "translation": "سيحدث في الكتل القليلة القادمة"
+    },
+    {
+        "id": "CANDLES_LOADING",
+        "context": "js",
+        "english": "waiting for candlesticks",
+        "translation": "في انتظار أعمدة الشموع"
+    },
+    {
+        "id": "IMMATURE",
+        "context": "js",
+        "english": "immature",
+        "translation": "غير ناضجة"
+    },
+    {
+        "id": "UNAVAILABLE",
+        "context": "js",
+        "english": "unavailable",
+        "translation": "غير متوفرة"
+    },
+    {
+        "id": "BOND_RESERVES",
+        "context": "js",
+        "english": "Bond Reserves",
+        "translation": "احتياطيات السندات"
+    },
+    {
+        "id": "TX_TYPE_UNKNOWN",
+        "context": "js",
+        "english": "Unknown",
+        "translation": "غير معروفة"
+    },
+    {
+        "id": "TX_TYPE_CREATE_BOND",
+        "context": "js",
+        "english": "Create bond",
+        "translation": "إنشاء السند"
+    },
+    {
+        "id": "EMPTY_DEX_ADDRESS_MSG",
+        "context": "js",
+        "english": "DEX address cannot be empty",
+        "translation": "لا يمكن أن يكون عنوان منصة المبادلات اللامركزية DEX فارغًا"
+    },
+    {
+        "id": "TX_TYPE_REDEEM",
+        "context": "js",
+        "english": "Redeem",
+        "translation": "استرداد"
+    },
+    {
+        "id": "ORDER_BUTTON_QTY_ERROR",
+        "context": "js",
+        "english": "Order quantity must be specified.",
+        "translation": "يجب تحديد كمية الطلب."
+    },
+    {
+        "id": "IMMATURE_TITLE",
+        "context": "js",
+        "english": "Immature",
+        "translation": "غير ناضجة"
+    },
+    {
+        "id": "INVALID_DATE_ERR_MSG",
+        "context": "js",
+        "english": "error: invalid date or time",
+        "translation": "خطأ: تاريخ أو وقت غير صحيح"
+    },
+    {
+        "id": "RESERVES_DEFICIT",
+        "context": "js",
+        "english": "Reserves Deficit",
+        "translation": "عجز الاحتياطيات"
+    },
+    {
+        "id": "BROWSER_NTFN_CONNECTIONS",
+        "context": "js",
+        "english": "Server connections",
+        "translation": "اتصالات الخادم"
+    },
+    {
+        "id": "LOCKED_TITLE",
+        "context": "js",
+        "english": "Locked",
+        "translation": "مقفل"
+    },
+    {
+        "id": "TX_TYPE_SPLIT",
+        "context": "js",
+        "english": "Split",
+        "translation": "تقسيم"
+    },
+    {
+        "id": "MATCH_STATUS_REDEEM_PENDING",
+        "context": "js",
+        "english": "Redeem PENDING",
+        "translation": "الاسترداد قيد الانتظار"
+    },
+    {
+        "id": "TX_TYPE_SWAP",
+        "context": "js",
+        "english": "Swap",
+        "translation": "مقايضة"
+    },
+    {
+        "id": "TICKET_STATUS_MISSED",
+        "context": "js",
+        "english": "missed",
+        "translation": "مفوتة"
+    },
+    {
+        "id": "TXFEE_UNSUPPORTED",
+        "context": "js",
+        "english": "fee estimation is not supported for this wallet type",
+        "translation": "تقدير الرسوم غير مدعوم لهذا النوع من المحفظة"
+    },
+    {
+        "id": "ORDER_BUTTON_SELL_BALANCE_ERROR",
+        "context": "js",
+        "english": "Insufficient balance to sell.",
+        "translation": "الرصيد غير كافي للبيع."
+    },
+    {
+        "id": "API Key",
+        "context": "html",
+        "english": "API Key",
+        "translation": "مفتاح واجهة برمجة التطبيقات"
+    },
+    {
+        "id": "strategy_percent",
+        "context": "html",
+        "english": "The gap is set to the specified percent of the mid-gap price.",
+        "translation": "تم تحديد الفجوة بالنسبة المئوية المحددة من السعر المتوسط للفجوة."
+    },
+    {
+        "id": "Change Tier",
+        "context": "html",
+        "english": "Change Tier",
+        "translation": "تغيير المستوى"
+    },
+    {
+        "id": "create_account_to_trade",
+        "context": "html",
+        "english": "Create an account to trade",
+        "translation": "إنشاء حساب للتداول"
+    },
+    {
+        "id": "enable_wallet",
+        "context": "html",
+        "english": "Enable Wallet",
+        "translation": "تفعيل المحفظة"
+    },
+    {
+        "id": "trading_tier_message",
+        "context": "html",
+        "english": "Increase your trading tier to enable trading of larger amounts. Trading limits also grow with reputation.",
+        "translation": "زد مستوى تداولك لتمكين تداول مبالغ أكبر. حدود التداول تزداد أيضًا مع السمعة."
+    },
+    {
+        "id": "strategy_absolute_plus",
+        "context": "html",
+        "english": "The gap starts at the break-even spread, which is the minimum spread at which a buy-sell combo produces profit, and then adds the specified rate difference to both sides.",
+        "translation": "تبدأ الفجوة عند فارق نقطة التعادل، وهو أقل فارق يمكن عنده لمزيج الشراء والبيع أن يحقق ربحًا، ثم يتم إضافة الفارق في المعدل المحدد إلى كلا الجانبين."
+    },
+    {
+        "id": "Tx Fee Balance",
+        "context": "html",
+        "english": "Transaction Fee Balance:",
+        "translation": "رصيد رسوم المعاملة:"
+    },
+    {
+        "id": "gap_strategy",
+        "context": "html",
+        "english": "Gap Strategy",
+        "translation": "استراتيجية الفجوة"
+    },
+    {
+        "id": "date_time",
+        "context": "html",
+        "english": "Date and Time",
+        "translation": "التاريخ و الوقت"
+    },
+    {
+        "id": "Minimum Transfer",
+        "context": "html",
+        "english": "Minimum Transfer",
+        "translation": "الحد الأدنى للتحويل"
+    },
+    {
+        "id": "no_token_allowances",
+        "context": "html",
+        "english": "You have not granted allowances for any swap contracts for this token.",
+        "translation": "لم تمنح تصاريح لأي عقود مقايضة لهذا التوكن."
+    },
+    {
+        "id": "running",
+        "context": "html",
+        "english": "Running",
+        "translation": "قيد التشغيل"
+    },
+    {
+        "id": "empty_market_rate_tooltip",
+        "context": "html",
+        "english": "Optionally provide a rate to use if the DEX market is empty and no oracles are available.",
+        "translation": "يمكنك اختياريًا توفير سعر لاستخدامه في حال كان سوق منصة المبادلات اللامركزية DEX فارغًا ولا توجد أوراكل متاحة."
+    },
+    {
+        "id": "token_unapproval_tx_msg",
+        "context": "html",
+        "english": "Your token approval has been removed with transaction ID:",
+        "translation": "تمت إزالة الموافقة بالتوكن مع معرف المعاملة:"
+    },
+    {
+        "id": "Multiplier",
+        "context": "html",
+        "english": "Multiplier",
+        "translation": "مضاعف"
+    },
+    {
+        "id": "Forgot Password",
+        "context": "html",
+        "english": "Forgot Password?",
+        "translation": "هل نسيت كلمة السر؟"
+    },
+    {
+        "id": "Got it",
+        "context": "html",
+        "english": "Got it",
+        "translation": "فهمت"
+    },
+    {
+        "id": "Choose your trading tier",
+        "context": "html",
+        "english": "Choose your trading tier",
+        "translation": "اختر فئة التداول الخاصة بك"
+    },
+    {
+        "id": "asset_name tx_history",
+        "context": "html",
+        "english": "<span data-asset-name=1></span> Transaction History",
+        "translation": "<span data-asset-name=1></span> تاريخ المعاملات"
+    },
+    {
+        "id": "bot_profit_title",
+        "context": "html",
+        "english": "Choose your profit threshold",
+        "translation": "اختر عتبة ربحك"
+    },
+    {
+        "id": "strategy_multiplier",
+        "context": "html",
+        "english": "The gap is set to the specified multiple of the break-even spread, which is the minimum spread at which a buy-sell combo produces profit.",
+        "translation": "يتم تعيين الفجوة على المضاعف المحدد لفارق التعادل، وهو الحد الأدنى للفارق الذي تنتج عنده مجموعة الشراء والبيع الربح."
+    },
+    {
+        "id": "cex_quote_asset_balance",
+        "context": "html",
+        "english": "CEX <span id=\"cexQuoteBalName\"></span> Allocation",
+        "translation": "تخصيص  <span id=\”cexQuoteBalName\"></span> منصة المبادلات المركزية CEX"
+    },
+    {
+        "id": "Skip this step for now",
+        "context": "html",
+        "english": "Skip this step for now",
+        "translation": "تجاوز هذه الخطوة في الوقت الحالي"
+    },
+    {
+        "id": "Pending",
+        "context": "html",
+        "english": "Pending",
+        "translation": "قيد الإنتظار"
+    },
+    {
+        "id": "address",
+        "context": "html",
+        "english": "Address",
+        "translation": "العنوان"
+    },
+    {
+        "id": "2 Fund your Wallet",
+        "context": "html",
+        "english": "2: Fund your Wallet",
+        "translation": "2: قم بتمويل محفظتك"
+    },
+    {
+        "id": "Taker Swap",
+        "context": "html",
+        "english": "Taker Swap",
+        "translation": "مقايضة المستفيد"
+    },
+    {
+        "id": "loading_oracles",
+        "context": "html",
+        "english": "Loading oracles...",
+        "translation": "جاري تحميل الاوراكل..."
+    },
+    {
+        "id": "back",
+        "context": "html",
+        "english": "Back",
+        "translation": "العودة"
+    },
+    {
+        "id": "strategy_percent_plus",
+        "context": "html",
+        "english": "The gap starts at the break-even spread, which is the minimum spread at which a buy-sell combo produces profit, and then adds the specified spread, calculated as a percentage of the mid-gap price.",
+        "translation": "تبدأ الفجوة عند فارق نقطة التعادل، وهو أدنى فارق يمكن عنده لمزيج الشراء والبيع أن يحقق ربحًا، ثم يضاف الفارق المحدد، الذي يُحسب كنسبة مئوية من السعر المتوسط للفجوة."
+    },
+    {
+        "id": "enable_wallet_message",
+        "context": "html",
+        "english": "This wallet will resume operation and might take some time to sync. If this is a token wallet, the wallet for the chain's primary asset will also be enabled.",
+        "translation": "ستستأنف هذه المحفظة العمل وقد تستغرق بعض الوقت للمزامنة. إذا كانت هذه محفظة لتوكن، فسيتم أيضًا تفعيل المحفظة الخاصة بالأصل الأساسي للسلسلة."
+    },
+    {
+        "id": "quote_asset_balance_tooltip",
+        "context": "html",
+        "english": "The amount of the quote asset to allocate for this bot. If the upper end of this range is < 100%, it means that the rest of the balance was allocated to other bots.",
+        "translation": "مقدار أصل عرض الأسعار المطلوب تخصيصه لهذا البوت. إذا كان الحد الأعلى لهذا النطاق أقل من 100%، فهذا يعني أنه تم تخصيص باقي الرصيد للبوتات أخرى."
+    },
+    {
+        "id": "settings_updated",
+        "context": "html",
+        "english": "Settings Updated!",
+        "translation": "تم تحديث الإعدادات!"
+    },
+    {
+        "id": "Votes cast",
+        "context": "html",
+        "english": "Votes cast",
+        "translation": "الأصوات المدلى بها"
+    },
+    {
+        "id": "Send enough with estimate",
+        "context": "html",
+        "english": "Deposit at least <span data-tmpl=\"totalForBond\"></span> <span class=\"unit\">XYZ</span> to cover your bond and fees. You may deposit as much as you like to your wallet, since only the required amount will be used in the next step. The wallet may require a confirmation on the new funds before proceeding.",
+        "translation": "قم بالإيداع بما لا يقل عن <span data-tmpl=\"totalForBond\"></span> <span class=\"unit\">XYZ</span> لتغطية السند والرسوم. يمكنك الإيداع بقدر ما تشاء في محفظتك، حيث سيتم استخدام الكمية المطلوبة فقط في الخطوة التالية. قد تتطلب المحفظة تأكيدًا على الأموال الجديدة قبل المتابعة."
+    },
+    {
+        "id": "staking_disabled",
+        "context": "html",
+        "english": "Ticket purchasing disabled by <span id=\"extensionModeAppName\"></span>.",
+        "translation": "تم تعطيل شراء التذاكر بواسطة <span id=\"extensionModeAppName\"></span>."
+    },
+    {
+        "id": "stop_market_making",
+        "context": "html",
+        "english": "Stop",
+        "translation": "إيقاف"
+    },
+    {
+        "id": "posting_bonds_shortly",
+        "context": "html",
+        "english": "Creating bonds...",
+        "translation": "إنشاء السندات..."
+    },
+    {
+        "id": "start_market_making",
+        "context": "html",
+        "english": "Start",
+        "translation": "بدء التشغيل"
+    },
+    {
+        "id": "sweep_orders",
+        "context": "html",
+        "english": "Hide fully executed orders",
+        "translation": "إخفاء الطلبات المنفذة بالكامل"
+    },
+    {
+        "id": "gap_strategy_percent",
+        "context": "html",
+        "english": "Percent",
+        "translation": "النسبة المئوية"
+    },
+    {
+        "id": "no_oracles",
+        "context": "html",
+        "english": "There are no oracles available for this market",
+        "translation": "لا توجد أوراكل متاحة لهذا السوق"
+    },
+    {
+        "id": "exit edit mode",
+        "context": "html",
+        "english": "exit edit mode",
+        "translation": "الخروج من وضع التعديل"
+    },
+    {
+        "id": "Maker Redemption",
+        "context": "html",
+        "english": "Maker Redemption",
+        "translation": "استرداد صانع السوق"
+    },
+    {
+        "id": "use_oracles_tooltip",
+        "context": "html",
+        "english": "If checked, the bot will use rates on other exchanges in combination with the DEX mid-gap to determine the order placement rates.",
+        "translation": "في حالة تحديده، سيستخدم البوت أسعار منصات المبادلات الأخرى بالاشتراك مع الفجوة المتوسطة لمنصة المبادلات اللامركزية DEX لتحديد أسعار وضع الطلبات."
+    },
+    {
+        "id": "Pause",
+        "context": "html",
+        "english": "Pause",
+        "translation": "ايقاف مؤقت"
+    },
+    {
+        "id": "show_archived_date_msg",
+        "context": "html",
+        "english": "Specify date of latest records to keep",
+        "translation": "حدد تاريخ أحدث السجلات للاحتفاظ بها"
+    },
+    {
+        "id": "Minimum Balance",
+        "context": "html",
+        "english": "Minimum Balance",
+        "translation": "الحد الأدنى للرصيد"
+    },
+    {
+        "id": "lot_size",
+        "context": "html",
+        "english": "Lot Size",
+        "translation": "حجم اللوت"
+    },
+    {
+        "id": "reset_settings",
+        "context": "html",
+        "english": "Reset Settings",
+        "translation": "ضبط الإعدادات"
+    },
+    {
+        "id": "current_tier_tooltip",
+        "context": "html",
+        "english": "Tier represented by active bonds. Increase your target tier to raise your target tier, boost your trading limits, and offset penalties, if any.",
+        "translation": "يتم تمثيل المستوى بالسندات النشطة. زد من مستواك المستهدف لرفع مستواك المستهدف، وزيادة حدود التداول الخاصة بك، وتعويض العقوبات، إن وجدت."
+    },
+    {
+        "id": "Remove",
+        "context": "html",
+        "english": "Remove",
+        "translation": "إزالة"
+    },
+    {
+        "id": "save_orders_to_file_msg",
+        "context": "html",
+        "english": "Optional: Whether to save deleted orders to CSV file on dexc data directory. Default is false.",
+        "translation": "اختياري: ما إذا كان سيتم حفظ الطلبات المحذوفة في ملف CSV في دليل بيانات dexc. الافتراضي خطأ."
+    },
+    {
+        "id": "bond_definition",
+        "context": "html",
+        "english": "A fidelity bond is funds temporarily locked in an on-chain contract. After the contract expires, your wallet will reclaim the funds. On mainnet, funds are locked for 2 months.",
+        "translation": "سندات الإخلاص هي أموال مقفلة مؤقتًا في عقد متصل بالسلسلة. بعد انتهاء العقد، ستقوم محفظتك باسترداد الأموال. على الشبكة الرئيسية، يتم قفل الأموال لمدة شهرين."
+    },
+    {
+        "id": "quickconfig_server_error_header",
+        "context": "html",
+        "english": "Errors encountered when connecting to the following servers. You can try again from the Settings view.",
+        "translation": "حدثت أخطاء عند الاتصال بالخوادم التالية. يمكنك المحاولة مرة أخرى من عرض الإعدادات."
+    },
+    {
+        "id": "gap_strategy_tooltip",
+        "context": "html",
+        "english": "multiplier: a multiple of the break-even spread,\nabsolute: set an absolute sell - buy rate difference,\nabsolute-plus: absolute + add the break-even spread,\npercent: gap set to a percent of the spot price,\npercent-plus: percent + add the break-even spread",
+        "translation": "المضاعف: مضاعف انتشار التعادل، \nabsolute: تعيين البيع المطلق - فرق سعر الشراء، \nabsolute-plus: مطلق + إضافة فرق التعادل، \npercent: تعيين الفجوة إلى نسبة مئوية من السعر الفوري، \npercent-plus: بالمائة + إضافة فرق التعادل"
+    },
+    {
+        "id": "priority",
+        "context": "html",
+        "english": "Priority",
+        "translation": "أولوية"
+    },
+    {
+        "id": "create_bot",
+        "context": "html",
+        "english": "Create Bot",
+        "translation": "إنشاء بوت"
+    },
+    {
+        "id": "Enable Privacy",
+        "context": "html",
+        "english": "Enable Privacy",
+        "translation": "تفعيل الخصوصية"
+    },
+    {
+        "id": "Tickets bought",
+        "context": "html",
+        "english": "Tickets bought",
+        "translation": "تم شراء التذاكر"
+    },
+    {
+        "id": "save_matches_to_file",
+        "context": "html",
+        "english": "Save matches to CSV file",
+        "translation": "حفظ التطابقات في ملف CSV"
+    },
+    {
+        "id": "oracle_weighting_tooltip",
+        "context": "html",
+        "english": "The amount of weight to give to the oracle rates when determining the order placement rates. Use a higher weighting when DEX markets are thin to avoid manipulation.",
+        "translation": "مقدار الوزن الذي يجب إعطاؤه لمعدلات أوراكل عند تحديد معدلات وضع الطلب. استخدم ترجيحًا أعلى عندما تكون أسواق منصة المبادلات اللامركزية DEX ضعيفة لتجنب التلاعب."
+    },
+    {
+        "id": "cex_alloc_tooltip",
+        "context": "html",
+        "english": "The amount of your balance to initially allocate to this bot on the exchange",
+        "translation": "مقدار رصيدك الذي سيتم تخصيصه بداية لهذا البوت على منصة المبادلات"
+    },
+    {
+        "id": "empty_market_rate",
+        "context": "html",
+        "english": "Empty Market Rate",
+        "translation": "افرغ سعر السوق"
+    },
+    {
+        "id": "agendas",
+        "context": "html",
+        "english": "agendas",
+        "translation": "أجندات"
+    },
+    {
+        "id": "Make a Market",
+        "context": "html",
+        "english": "Make a Market!",
+        "translation": "اصنع سوقًا!"
+    },
+    {
+        "id": "arb_minbal_tooltip",
+        "context": "html",
+        "english": "The minimum balance allowed before a deposit or withdraw is initiated",
+        "translation": "الحد الأدنى للرصيد المسموح به قبل بدء الإيداع أو السحب"
+    },
+    {
+        "id": "Hide settings",
+        "context": "html",
+        "english": "Hide settings",
+        "translation": "إخفاء الإعدادات"
+    },
+    {
+        "id": "buy_placements",
+        "context": "html",
+        "english": "Buy Placements",
+        "translation": "مواضع الشراء"
+    },
+    {
+        "id": "Ticket Price",
+        "context": "html",
+        "english": "Ticket Price",
+        "translation": "سعر التذكرة"
+    },
+    {
+        "id": "Market Making",
+        "context": "html",
+        "english": "Market Making",
+        "translation": "صناعة السوق"
+    },
+    {
+        "id": "Select a Market",
+        "context": "html",
+        "english": "Select a Market",
+        "translation": "اختر سوقًا"
+    },
+    {
+        "id": "what_s_a_bond",
+        "context": "html",
+        "english": "What's a bond?",
+        "translation": "ما هو السند؟"
+    },
+    {
+        "id": "bigger_bonds_higher_limit",
+        "context": "html",
+        "english": "You can create larger bonds to increase your trading tier, enabling trading of larger quantities at a time. Larger bonds also increase your capacity for violations before trading privileges are suspended.",
+        "translation": "يمكنك إنشاء سندات أكبر لزيادة مستوى التداول الخاص بك، مما يتيح تداول كميات أكبر في المرة الواحدة. كما تزيد السندات الأكبر حجمًا من قدرتك على ارتكاب الانتهاكات قبل تعليق امتيازات التداول."
+    },
+    {
+        "id": "use_oracles",
+        "context": "html",
+        "english": "Use Oracles",
+        "translation": "استخدم أوراكل"
+    },
+    {
+        "id": "gap_strategy_percent_plus",
+        "context": "html",
+        "english": "Percent Plus",
+        "translation": "إضافي النسبة المئوية"
+    },
+    {
+        "id": "nonce",
+        "context": "html",
+        "english": "Nonce",
+        "translation": "الرقم الخاص"
+    },
+    {
+        "id": "Set Votes",
+        "context": "html",
+        "english": "Set Votes",
+        "translation": "تعيين الأصوات"
+    },
+    {
+        "id": "whats_a_market_maker",
+        "context": "html",
+        "english": "Add a market maker bot to make a market. When you make a market, you strategically maintain orders on both sides of a market's order book. In addition to potential profits, market makers improve the health of a market by providing liquidity and limiting slippage.",
+        "translation": "أضف بوت صانع السوق لإنشاء سوق. عند إنشاء سوق، تحافظ استراتيجيًا على الطلبات على كلا جانبي دفتر طلبات السوق. بالإضافة إلى الأرباح المحتملة، يُحسِّن صانعو السوق صحة السوق من خلال توفير السيولة والحد من نسبة التفويت."
+    },
+    {
+        "id": "Total rewards",
+        "context": "html",
+        "english": "Total rewards",
+        "translation": "إجمالي المكافآت"
+    },
+    {
+        "id": "bot_type",
+        "context": "html",
+        "english": "Bot Type",
+        "translation": "نوع البوت"
+    },
+    {
+        "id": "approval_required_both",
+        "context": "html",
+        "english": "Token approval is required before trading",
+        "translation": "الموافقة بالتوكن مطلوبة قبل التداول"
+    },
+    {
+        "id": "Actual Tier",
+        "context": "html",
+        "english": "Actual Tier",
+        "translation": "المستوى الحالي"
+    },
+    {
+        "id": "block",
+        "context": "html",
+        "english": "Block",
+        "translation": "الكتلة"
+    },
+    {
+        "id": "Purchase Tickets",
+        "context": "html",
+        "english": "Purchase Tickets",
+        "translation": "شراء التذاكر"
+    },
+    {
+        "id": "enable_bond_maintenance",
+        "context": "html",
+        "english": "Enable bond maintenance from DEX Settings page.",
+        "translation": "تمكين صيانة السندات من صفحة إعدادات منصة المبادلات اللامركزية DEX."
+    },
+    {
+        "id": "disable_wallet",
+        "context": "html",
+        "english": "Disable Wallet",
+        "translation": "تعطيل المحفظة"
+    },
+    {
+        "id": "Custom VSP URL",
+        "context": "html",
+        "english": "Custom VSP URL",
+        "translation": "عنوان URL المخصص لموفر خدمة التصويت VSP"
+    },
+    {
+        "id": "wallet_bond_reserves",
+        "context": "html",
+        "english": "Your wallet will automatically reserve the funds necessary to keep you bonded at your selected trading tier, and will broadcast new bonds to replace expiring ones. You can lower or raise your trading tier in the exchange's settings panel. Set your trading tier to zero to disable your account (once your existing bonds expire).",
+        "translation": "ستحتفظ محفظتك تلقائيًا بالأموال اللازمة لإبقائك مرتبطًا بمستوى التداول المحدد، وستبث سندات جديدة لتحل محل السندات المنتهية الصلاحية. يمكنك خفض أو رفع مستوى التداول الخاص بك في لوحة إعدادات منصة المبادلات. اضبط مستوى التداول الخاص بك إلى الصفر لتعطيل حسابك (بمجرد انتهاء صلاحية السندات الحالية)."
+    },
+    {
+        "id": "Currently Queued",
+        "context": "html",
+        "english": "Currently Queued",
+        "translation": "في قائمة الانتظار حاليا"
+    },
+    {
+        "id": "USD",
+        "context": "html",
+        "english": "USD",
+        "translation": "USD"
+    },
+    {
+        "id": "Drift tolerance",
+        "context": "html",
+        "english": "Drift Tolerance",
+        "translation": "التفاوت المقبول"
+    },
+    {
+        "id": "Show other settings",
+        "context": "html",
+        "english": "Show other settings",
+        "translation": "أظهر إعدادات أخرى"
+    },
+    {
+        "id": "Live Tickets",
+        "context": "html",
+        "english": "Live Tickets",
+        "translation": "التذاكر الحية"
+    },
+    {
+        "id": "show advanced options",
+        "context": "html",
+        "english": "show advanced options",
+        "translation": "عرض الخيارات المتقدمة"
+    },
+    {
+        "id": "Immature tickets",
+        "context": "html",
+        "english": "Immature tickets",
+        "translation": "التذاكر غير الناضجة"
+    },
+    {
+        "id": "app_pw_reg",
+        "version": 1,
+        "context": "html",
+        "english": "Enter your app password to confirm DEX registration and bond creation.",
+        "translation": "أدخل كلمة مرور التطبيق لتأكيد تسجيل منصة المبادلات اللامركزية DEX وإنشاء السندات."
+    },
+    {
+        "id": "treasury spends",
+        "context": "html",
+        "english": "treasury spends",
+        "translation": "نفقات الخزينة"
+    },
+    {
+        "id": "bots_running_view_only",
+        "context": "html",
+        "english": "Bots are running. You are in view-only mode.",
+        "translation": "البوتات قيد التشغيل. أنت في وضع العرض فقط."
+    },
+    {
+        "id": "buy_placements_tooltip",
+        "context": "html",
+        "english": "Define the buy placements for the bot. The bot will place orders in the order of priority if balance is not enough to place all the orders.",
+        "translation": "تحديد مواضع الشراء للبوت. سيقوم البوت بوضع الطلبات حسب ترتيب الأولوية إذا لم يكن الرصيد كافيًا لتقديم جميع الطلبات."
+    },
+    {
+        "id": "no_limit_bullet",
+        "context": "html",
+        "english": "There is no limit on the number of settling lots",
+        "translation": "ليس هناك حد لعدد إنشاء اللوت"
+    },
+    {
+        "id": "Error",
+        "context": "html",
+        "english": "Error",
+        "translation": "خطأ"
+    },
+    {
+        "id": "connected",
+        "context": "html",
+        "english": "Connected",
+        "translation": "متصل"
+    },
+    {
+        "id": "URL",
+        "context": "html",
+        "english": "URL",
+        "translation": "عنوان URL"
+    },
+    {
+        "id": "Oracle bias",
+        "context": "html",
+        "english": "Oracle Bias",
+        "translation": "انحياز أوراكل"
+    },
+    {
+        "id": "API Secret",
+        "context": "html",
+        "english": "API Secret",
+        "translation": "سر واجهة برمجة التطبيقات"
+    },
+    {
+        "id": "Maker Swap",
+        "context": "html",
+        "english": "Maker Swap",
+        "translation": "مقايضة صانع السوق"
+    },
+    {
+        "id": "fiat_rates",
+        "context": "html",
+        "english": "Fiat Rates",
+        "translation": "أسعار العملة الورقية"
+    },
+    {
+        "id": "Oracles",
+        "context": "html",
+        "english": "Oracles",
+        "translation": "أوراكل"
+    },
+    {
+        "id": "gap_strategy_absolute_plus",
+        "context": "html",
+        "english": "Absolute Plus",
+        "translation": "القيمة المطلقة المضافة"
+    },
+    {
+        "id": "compensation_tooltip",
+        "context": "html",
+        "english": "Enable posting additional bonds to offset penalized tiers.",
+        "translation": "تمكين إيداع سندات إضافية لتعويض المستويات المعاقبة."
+    },
+    {
+        "id": "fee balance",
+        "context": "html",
+        "english": "fee balance",
+        "translation": "رصيد الرسوم"
+    },
+    {
+        "id": "unapprove_token_for",
+        "context": "html",
+        "english": "Remove Token Allowances for <span id=\"tokenVersionTableAssetSymbol\"></span>",
+        "translation": "إزالة مخصصات التوكن لـ <span id=\”tokenVersionTableAssetSymbol\"></span>"
+    },
+    {
+        "id": "No",
+        "context": "html",
+        "english": "No",
+        "translation": "لا"
+    },
+    {
+        "id": "other_actions",
+        "context": "html",
+        "english": "Other Actions",
+        "translation": "إجراءات أخرى"
+    },
+    {
+        "id": "acknowledge_and_hide",
+        "context": "html",
+        "english": "acknowledge and hide",
+        "translation": "أَقِّر واخفِ"
+    },
+    {
+        "id": "Trading Tier",
+        "context": "html",
+        "english": "Trading Tier",
+        "translation": "درجة التداول"
+    },
+    {
+        "id": "tx_id",
+        "context": "html",
+        "english": "Transaction ID",
+        "translation": "معرف معاملة"
+    },
+    {
+        "id": "Recent Matches",
+        "context": "html",
+        "english": "Recent Matches",
+        "translation": "المطابقات الأخيرة"
+    },
+    {
+        "id": "approval_change_pending",
+        "context": "html",
+        "english": "Approval change pending",
+        "translation": "تغيير الموافقة قيد الانتظار"
+    },
+    {
+        "id": "Done",
+        "context": "html",
+        "english": "Done",
+        "translation": "تم"
+    },
+    {
+        "id": "cex_base_rebalance",
+        "context": "html",
+        "english": "<span id=\"baseRebalanceName\"></span> Rebalance Settings",
+        "translation": "إعدادات إعادة الرصيد لـ <span id=\"baseRebalanceName\"></span>"
+    },
+    {
+        "id": "choose a different asset",
+        "context": "html",
+        "english": "choose a different asset",
+        "translation": "اختر أصلاً مختلفاً"
+    },
+    {
+        "id": "oracle_bias_tooltip",
+        "context": "html",
+        "english": "Adjust the oracle rates by this amount before using them to determine the order placement rates.",
+        "translation": "قم بتعديل معدلات الأوراكل بهذا المبلغ قبل استخدامها لتحديد معدلات تحديد الطلب."
+    },
+    {
+        "id": "cex_base_asset_balance",
+        "context": "html",
+        "english": "CEX <span id=\"cexBaseBalName\"></span> Allocation",
+        "translation": "تخصيص <span id=\"cexBaseBalName\"></span> لمنصة المبادلات المركزية CEX"
+    },
+    {
+        "id": "no_tx_history",
+        "context": "html",
+        "english": "No transactions to show",
+        "translation": "لا توجد معاملات للعرض"
+    },
+    {
+        "id": "delete_archived_records",
+        "context": "html",
+        "english": "Delete Archived Records",
+        "translation": "حذف السجلات المؤرشفة"
+    },
+    {
+        "id": "manage_peers",
+        "context": "html",
+        "english": "Manage Peers",
+        "translation": "إدارة النظراء"
+    },
+    {
+        "id": "Start",
+        "context": "html",
+        "english": "Start",
+        "translation": "بدء"
+    },
+    {
+        "id": "hide advanced options",
+        "context": "html",
+        "english": "hide advanced options",
+        "translation": "إخفاء الخيارات المتقدمة"
+    },
+    {
+        "id": "locktime",
+        "context": "html",
+        "english": "Lock Time",
+        "translation": "القفل الزمني"
+    },
+    {
+        "id": "Configure Privacy",
+        "context": "html",
+        "english": "Configure Privacy",
+        "translation": "اضبط الخصوصية"
+    },
+    {
+        "id": "approve_token_text",
+        "context": "html",
+        "english": "In order to trade tokens, you must approve the swap contract to handle tokens on your behalf. This is a one-time action for each token. <br/><br/> The estimated fee for the approval transaction is <b><span id=\"approvalFeeEstimate\"></span></b>",
+        "translation": "لكي تتمكن من تداول التوكنات، يجب عليك الموافقة على عقد التبديل ليتعامل مع التوكنات نيابة عنك. هذا إجراء يتم مرة واحدة لكل توكن. <br/><br/> التكلفة التقديرية لمعاملة الموافقة هي <b><span id=\”approvalFeeEstimate\"></span></b>"
+    },
+    {
+        "id": "No tickets to show",
+        "context": "html",
+        "english": "No tickets to show",
+        "translation": "لا توجد تذاكر للعرض"
+    },
+    {
+        "id": "bond_lock",
+        "context": "html",
+        "english": "Bond Lock:",
+        "translation": "قفل السندات:"
+    },
+    {
+        "id": "quote_wallet_settings",
+        "context": "html",
+        "english": "<span id=\"quoteWalletSettingsName\"></span> Wallet Settings",
+        "translation": "إعدادات المحفظة لـ <span id=\"quoteWalletSettingsName\"></span>"
+    },
+    {
+        "id": "Oracle weight",
+        "context": "html",
+        "english": "Oracle Weight",
+        "translation": "وزن أوراكل"
+    },
+    {
+        "id": "Approve",
+        "context": "html",
+        "english": "Approve",
+        "translation": "الموافقة"
+    },
+    {
+        "id": "lot_commit_bullet",
+        "context": "html",
+        "english": "Total commitment is 2 x lots",
+        "translation": "مجموع الالتزامات 2 × لوت"
+    },
+    {
+        "id": "Tickets",
+        "context": "html",
+        "english": "Tickets",
+        "translation": "التذاكر"
+    },
+    {
+        "id": "gap_strategy_multiplier",
+        "context": "html",
+        "english": "Multiplier",
+        "translation": "عامل المضاعفة"
+    },
+    {
+        "id": "Add a Market Maker Bot",
+        "context": "html",
+        "english": "Add a Market Maker Bot",
+        "translation": "إضافة بوت صانع السوق"
+    },
+    {
+        "id": "target_tier",
+        "context": "html",
+        "english": "Target Tier",
+        "translation": "المستوى المستهدف"
+    },
+    {
+        "id": "quickconfig_wallet_header",
+        "context": "html",
+        "english": "We can activate these native wallets now. Configure additional wallets from the Wallets view.",
+        "translation": "يمكننا تفعيل هذه المحافظ الأصلية الآن. قم بتكوين محافظ إضافية من عرض المحافظ."
+    },
+    {
+        "id": "Trading Limit",
+        "context": "html",
+        "english": "Trading Limit",
+        "translation": "حد التداول"
+    },
+    {
+        "id": "Reset App Password",
+        "context": "html",
+        "english": "Reset App Password",
+        "translation": "إعادة تعيين كلمة مرور التطبيق"
+    },
+    {
+        "id": "Current Usage",
+        "context": "html",
+        "english": "Current Usage",
+        "translation": "الاستخدام الحالي"
+    },
+    {
+        "id": "need_to_register_msg",
+        "context": "html",
+        "english": "You need to create an account on <span id=\"unregisteredDex\"></span> to trade.",
+        "translation": "تحتاج إلى إنشاء حساب على <span id=\"unregisteredDex\"></span> للتداول."
+    },
+    {
+        "id": "Disabled",
+        "context": "html",
+        "english": "Disabled",
+        "translation": "معطّلة"
+    },
+    {
+        "id": "action_required_to_trade",
+        "context": "html",
+        "english": "ACTION REQUIRED TO TRADE",
+        "translation": "الإجراء المطلوب للتداول"
+    },
+    {
+        "id": "enabled",
+        "context": "html",
+        "english": "Enabled",
+        "translation": "مُفعَّل"
+    },
+    {
+        "id": "Parcel Size",
+        "context": "html",
+        "english": "Parcel Size",
+        "translation": "حجم الحزمة"
+    },
+    {
+        "id": "Arbitrage Rebalance",
+        "context": "html",
+        "english": "Arbitrage Rebalance",
+        "translation": "إعادة رصيد المراجحة"
+    },
+    {
+        "id": "bot_profit_explainer",
+        "context": "html",
+        "english": "The arbitrage bot will only attempt trades which would result in this minimum level of profit.",
+        "translation": "سيحاول بوت المراجحة إجراء التداولات التي من شأنها أن تسفر عن هذا المستوى الأدنى من الربح."
+    },
+    {
+        "id": "Market Maker Settings",
+        "context": "html",
+        "english": "Market Maker Settings",
+        "translation": "إعدادات صانع السوق"
+    },
+    {
+        "id": "base_wallet_settings",
+        "context": "html",
+        "english": "<span id=\"baseWalletSettingsName\"></span> Wallet Settings",
+        "translation": "إعدادات المحفظة لـ <span id=\"baseWalletSettingsName\"></span>"
+    },
+    {
+        "id": "Retire",
+        "context": "html",
+        "english": "Retire",
+        "translation": "تسديد"
+    },
+    {
+        "id": "add_a_wallet",
+        "context": "html",
+        "english": "Add a <span data-tmpl=\"addWalletSymbol\"></span> wallet",
+        "translation": "أضف محفظة <span data-tmpl=\"addWalletSymbol\"></span>"
+    },
+    {
+        "id": "Or add custom VSP URL:",
+        "context": "html",
+        "english": "Or add custom VSP URL:",
+        "translation": "أو أضف عنوان URL لمزود خدمة التصويت VSP المخصص:"
+    },
+    {
+        "id": "Limit Bonus",
+        "context": "html",
+        "english": "Limit Bonus",
+        "translation": "حد المكافأة"
+    },
+    {
+        "id": "Continue",
+        "context": "html",
+        "english": "Continue",
+        "translation": "تابع"
+    },
+    {
+        "id": "load_earlier_transactions",
+        "context": "html",
+        "english": "Load earlier transactions...",
+        "translation": "تحميل المعاملات السابقة..."
+    },
+    {
+        "id": "fiat_exchange_rate_msg",
+        "context": "html",
+        "english": "Sources may provide fiat exchange rates for different subsets of assets. You should select all sources that are acceptable to get fiat exchange rates for the most assets. Assets with fiat rates from multiple sources will use the average from all of those sources. Note: dcrdate provides fiat exchange rates for only BTC and DCR.",
+        "translation": "قد توفر المصادر أسعار صرف العملات الورقية لمجموعات فرعية مختلفة من الأصول. يجب عليك تحديد جميع المصادر المقبولة للحصول على أسعار صرف العملات الورقية لمعظم الأصول. ستستخدم الأصول ذات المعدلات الورقية من مصادر متعددة المتوسط من جميع تلك المصادر. ملاحظة: يوفر dcrdate أسعار صرف العملات الورقية لـ BTC وDCR فقط."
+    },
+    {
+        "id": "staking_unavailable_for_rpc",
+        "context": "html",
+        "english": "Staking unavailable for RPC wallets using SPV",
+        "translation": "التحصيص غير متاح لمحافظ RPC التي تستخدم نظام التحقق البسيط من الدفع SPV"
+    },
+    {
+        "id": "disallow_token",
+        "context": "html",
+        "english": "Remove Token Allowances",
+        "translation": "إزالة مخصصات التوكن"
+    },
+    {
+        "id": "version",
+        "context": "html",
+        "english": "Version",
+        "translation": "الإصدار"
+    },
+    {
+        "id": "Other Trading Limits",
+        "context": "html",
+        "english": "Other Trading Limits",
+        "translation": "حدود التداول الأخرى"
+    },
+    {
+        "id": "fee_rate_percent",
+        "context": "html",
+        "english": "Fee Rate (%)",
+        "translation": "معدل الرسوم (%)"
+    },
+    {
+        "id": "Available Balance",
+        "context": "html",
+        "english": "Available Balance",
+        "translation": "الرصيد المتاح"
+    },
+    {
+        "id": "select_a_cex_prompt",
+        "context": "html",
+        "english": "Select an exchange to enable arbitrage",
+        "translation": "اختر منصة مبادلات لتفعيل المراجحة"
+    },
+    {
+        "id": "cancel_order",
+        "context": "html",
+        "english": "cancel order",
+        "translation": "إلغاء الطلب"
+    },
+    {
+        "id": "timestamp",
+        "context": "html",
+        "english": "Timestamp",
+        "translation": "الطابع الزمني"
+    },
+    {
+        "id": "bonds_can_be_revoked",
+        "context": "html",
+        "english": "Bonds can be revoked if an account engages in continued disruptive behavior, such as backing out on a swap. Revoked bonds can be re-activated with continued normal trading activity.",
+        "translation": "يمكن إلغاء السندات إذا انخرط الحساب في سلوك تخريبي مستمر، مثل التراجع عن المقايضة. يمكن إعادة تنشيط السندات الملغاة مع استمرار نشاط التداول العادي."
+    },
+    {
+        "id": "Privacy off",
+        "context": "html",
+        "english": "Privacy off",
+        "translation": "الخصوصية معطلة"
+    },
+    {
+        "id": "loading privacy status",
+        "context": "html",
+        "english": "loading privacy status",
+        "translation": "تحميل حالة الخصوصية"
+    },
+    {
+        "id": "cspp_how",
+        "context": "html",
+        "english": "CoinShuffle++ creates outputs that cannot be definitively linked to previous on-chain activity. While output amounts are still visible in this form of privacy, the destruction of linkability means your on-chain history can no longer be inferred from publicly available data.",
+        "translation": "يقوم CoinShuffle++ بإنشاء مخرجات لا يمكن ربطها بشكل نهائي بالنشاط السابق على السلسلة. في حين أن كميات المخرجات لا تزال مرئية في هذا النوع من الخصوصية، فإن تدمير إمكانية الارتباط يعني أنه لم يعد من الممكن استنتاج سجلك على السلسلة من البيانات المتاحة للعامة."
+    },
+    {
+        "id": "browser_ntfn_blocked",
+        "context": "html",
+        "english": "Browser notifications are currently blocked.  Please unblock this site in your browser to receive notifications.",
+        "translation": "إشعارات المتصفح محظورة حاليًا. يرجى إلغاء حظر هذا الموقع في متصفحك لتلقي الإشعارات."
+    },
+    {
+        "id": "quickconfig_wallet_error_header",
+        "context": "html",
+        "english": "Errors encountered when creating the following wallets. Wallets can be configured in the Wallets view.",
+        "translation": "حدثت أخطاء عند إنشاء المحافظ التالية. يمكن تكوين المحافظ في عرض المحافظ."
+    },
+    {
+        "id": "Order persistence",
+        "context": "html",
+        "english": "Order persistence",
+        "translation": "استمرار الطلب"
+    },
+    {
+        "id": "save_matches_to_file_msg",
+        "context": "html",
+        "english": "Optional: Whether to save deleted matches to CSV file on dexc data directory. Default is false.",
+        "translation": "اختياري: ما إذا كان سيتم حفظ المباريات المحذوفة إلى ملف CSV في دليل بيانات dexc. الافتراضي هو خطأ."
+    },
+    {
+        "id": "Start_loudly",
+        "context": "html",
+        "english": "Start!",
+        "translation": "بدء التشغيل!"
+    },
+    {
+        "id": "Quick Configuration",
+        "context": "html",
+        "english": "Quick Configuration",
+        "translation": "التكوين السريع"
+    },
+    {
+        "id": "Bond amount",
+        "context": "html",
+        "english": "Bond amount",
+        "translation": "مبلغ السندات"
+    },
+    {
+        "id": "used_by_dex",
+        "context": "html",
+        "english": "Used by DEXes",
+        "translation": "تستخدمها منصات المبادلات اللامركزية"
+    },
+    {
+        "id": "Ticket",
+        "context": "html",
+        "english": "Ticket",
+        "translation": "التذكرة"
+    },
+    {
+        "id": "recipient",
+        "context": "html",
+        "english": "Recipient",
+        "translation": "المستلم"
+    },
+    {
+        "id": "txfee_not_available",
+        "context": "html",
+        "english": "Transaction fee currently unavailable",
+        "translation": "رسوم المعاملات غير متوفرة حاليًا"
+    },
+    {
+        "id": "dex_base_asset_balance",
+        "context": "html",
+        "english": "DEX <span id=\"dexBaseBalName\"></span> Allocation",
+        "translation": "تخصيص <span id=\"dexBaseBalName\"></span> لمنصة المبادلات اللامركزية DEX"
+    },
+    {
+        "id": "update_settings",
+        "context": "html",
+        "english": "Update Settings",
+        "translation": "تحديث الإعدادات"
+    },
+    {
+        "id": "unapprove_token_text",
+        "context": "html",
+        "english": "If you remove the allowance for this version of the swap contract, you will no longer be able to trade until you re-allow it. <br/><br/> The estimated transaction fee for removing the approval is <b><span id=\"unapprovalFeeEstimate\"></span></b>",
+        "translation": "إذا قمت بإزالة الإذن لهذه النسخة من عقد المقايضة، لن تتمكن من التداول حتى تقوم بالسماح به مرة أخرى. <br/><br/> رسوم المعاملة المقدرة لإزالة الموافقة هي <b><span id=\"unapprovalFeeEstimate\"></span></b>"
+    },
+    {
+        "id": "approval_required_buy",
+        "context": "html",
+        "english": "Token approval is required before buying",
+        "translation": "مطلوب الموافقة بالتوكن قبل الشراء"
+    },
+    {
+        "id": "unready_wallets_msg",
+        "context": "html",
+        "english": "Your wallets must be connected and unlocked before trades can be processed. Resolve this ASAP!",
+        "translation": "يجب أن تكون محافظك متصلة وغير مقفلة قبل أن يمكن معالجة التداولات. حل هذا في أسرع وقت ممكن!"
+    },
+    {
+        "id": "Paused",
+        "context": "html",
+        "english": "Paused",
+        "translation": "متوقف مؤقتًا"
+    },
+    {
+        "id": "bond_creation_pending_msg",
+        "context": "html",
+        "english": "In order to trade at <span id=\"postingBondsDex\" class=\"text-break\"></span> bond(s) will be created shortly.",
+        "translation": "لكي تتداول في <span id=\"postingBondsDex\" class=\"text-break\"></span> سيتم إنشاء سند(ات) قريبًا."
+    },
+    {
+        "id": "sell_placements",
+        "context": "html",
+        "english": "Sell Placements",
+        "translation": "مواضع البيع"
+    },
+    {
+        "id": "fee",
+        "context": "html",
+        "english": "Fee",
+        "translation": "الرسوم"
+    },
+    {
+        "id": "Create Account",
+        "context": "html",
+        "english": "Create Account",
+        "translation": "إنشاء حساب"
+    },
+    {
+        "id": "cex_quote_rebalance",
+        "context": "html",
+        "english": "<span id=\"quoteRebalanceName\"></span> Rebalance Settings",
+        "translation": "إعدادات إعادة الرصيد لـ <span id=\"quoteRebalanceName\"></span>"
+    },
+    {
+        "id": "mixing_pw_prompt",
+        "context": "html",
+        "english": "Enter your password to unlock your wallet turn on privacy",
+        "translation": "أدخل كلمة المرور الخاصة بك لفتح محفظتك وتفعيل الخصوصية"
+    },
+    {
+        "id": "VSP",
+        "context": "html",
+        "english": "VSP",
+        "translation": "مزود خدمة التصويت VSP"
+    },
+    {
+        "id": "Treasury Spends",
+        "context": "html",
+        "english": "Treasury Spends",
+        "translation": "نفقات الخزينة"
+    },
+    {
+        "id": "dex_quote_asset_balance",
+        "context": "html",
+        "english": "DEX <span id=\"dexQuoteBalName\"></span> Allocation",
+        "translation": "تخصيص <span id=\"dexQuoteBalName\"></span> لمنصة المبادلات اللامركزية DEX"
+    },
+    {
+        "id": "approval_required_sell",
+        "context": "html",
+        "english": "Token approval is required before selling",
+        "translation": "مطلوب الموافقة بالتوكن قبل البيع"
+    },
+    {
+        "id": "no_balance_available",
+        "context": "html",
+        "english": "No balance available",
+        "translation": "لا يوجد رصيد متاح"
+    },
+    {
+        "id": "target_tier_tooltip",
+        "context": "html",
+        "english": "This is the target account tier you wish to maintain. Set to zero if you wish to disable tier maintenance (do not post new bonds).",
+        "translation": "هذا هو مستوى الحساب المستهدف الذي ترغب في الحفاظ عليه. اضبط إلى صفر إذا كنت ترغب في تعطيل صيانة المستوى (لا تنشر سندات جديدة)."
+    },
+    {
+        "id": "score_factors",
+        "context": "html",
+        "english": "Increase your score by successfully completing trades. Failure to act on a trade will decrease your score.",
+        "translation": "زِد من نقاطك من خلال إتمام التداولات بنجاح. عدم العمل على تداول ما سيقلل من نقاطك."
+    },
+    {
+        "id": "limits_reputation",
+        "context": "html",
+        "english": "Trading limits are also increased as you establish reputation by engaging in normal trading activity and successfully completing matches.",
+        "translation": "يتم أيضًا زيادة حدود التداول عندما تكتسب سمعة طيبة من خلال الانخراط في نشاط تداول عادي وإكمال المطابقات بنجاح."
+    },
+    {
+        "id": "Agendas",
+        "context": "html",
+        "english": "Agendas",
+        "translation": "أجندات"
+    },
+    {
+        "id": "Editing Program",
+        "context": "html",
+        "english": "Editing Program",
+        "translation": "برنامج التحرير"
+    },
+    {
+        "id": "Penalties",
+        "context": "html",
+        "english": "Penalties",
+        "translation": "العقوبات"
+    },
+    {
+        "id": "Add another bot",
+        "context": "html",
+        "english": "Add another bot",
+        "translation": "أضف بوتًا آخر"
+    },
+    {
+        "id": "Fee Reserves",
+        "context": "html",
+        "english": "Fee Reserves",
+        "translation": "احتياطيات الرسوم"
+    },
+    {
+        "id": "cannot_manually_trade",
+        "context": "html",
+        "english": "You cannot manually place orders while market making is running",
+        "translation": "لا يمكنك تقديم الطلبات يدويًا أثناء عملية تشغيل صنع السوق"
+    },
+    {
+        "id": "Current Price",
+        "context": "html",
+        "english": "Current Price",
+        "translation": "السعر الحالي"
+    },
+    {
+        "id": "save_orders_to_file",
+        "context": "html",
+        "english": "Save orders to CSV file",
+        "translation": "حفظ الطلبات في ملف CSV"
+    },
+    {
+        "id": "acct_tier_post_bond",
+        "context": "html",
+        "english": "You account tier is <span id=\"acctTier\"></span>. You need to post new bonds to trade.",
+        "translation": "مستوى حسابك هو <span id=\"acctTier\"></span>. تحتاج إلى نشر سندات جديدة للتداول."
+    },
+    {
+        "id": "Score",
+        "context": "html",
+        "english": "Score",
+        "translation": "النقاط"
+    },
+    {
+        "id": "show_disclaimer",
+        "context": "html",
+        "english": "view warnings",
+        "translation": "عرض التحذيرات"
+    },
+    {
+        "id": "Running",
+        "context": "html",
+        "english": "Running",
+        "translation": "قيد التشغيل"
+    },
+    {
+        "id": "What is a fidelity bond",
+        "context": "html",
+        "english": "What is a fidelity bond?",
+        "translation": "ما هو سند الإخلاص؟"
+    },
+    {
+        "id": "ticket_qty_label",
+        "context": "html",
+        "english": "How Many?",
+        "translation": "كم عددها؟"
+    },
+    {
+        "id": "Save Notifications",
+        "context": "html",
+        "english": "Save Notifications",
+        "translation": "حفظ الإشعارات"
+    },
+    {
+        "id": "Instructions:",
+        "context": "html",
+        "english": "Instructions:",
+        "translation": "التعليمات:"
+    },
+    {
+        "id": "Confirm Bond Options",
+        "context": "html",
+        "english": "Confirm Bond Options",
+        "translation": "تأكيد خيارات السندات"
+    },
+    {
+        "id": "seed_backup_implore",
+        "context": "html",
+        "english": "It's highly recommended that you back up your application seed now. The application seed is critical to recovering your fidelity bonds and native wallets.",
+        "translation": "يوصى بشدة أن تقوم بعمل نسخة احتياطية من بذرة التطبيق الخاص بك الآن. تعد بذور التطبيق أمرًا بالغ الأهمية لاستعادة سندات الإخلاص والمحافظ الأصلية."
+    },
+    {
+        "id": "Vote Reward",
+        "context": "html",
+        "english": "Vote Reward",
+        "translation": "مكافأة التصويت"
+    },
+    {
+        "id": "order_persistence_tooltip",
+        "context": "html",
+        "english": "How long CEX orders that don't immediately match be are allowed to remain booked",
+        "translation": "إلى متى يُسمح لطلبات منصة المبادلات المركزية CEX التي لا تتطابق على الفور بالبقاء محجوزة"
+    },
+    {
+        "id": "ID",
+        "context": "html",
+        "english": "ID",
+        "translation": "المعرف"
+    },
+    {
+        "id": "Reserves for tx fees",
+        "context": "html",
+        "english": "Funds to reserve for transaction fees to maintain your bonds",
+        "translation": "الأموال اللازمة للاحتفاظ برسوم المعاملات للحفاظ على سنداتك"
+    },
+    {
+        "id": "enable_browser_ntfn",
+        "context": "html",
+        "english": "Enable desktop notifications",
+        "translation": "تفعيل إشعارات سطح المكتب"
+    },
+    {
+        "id": "funds_split_bullet",
+        "context": "html",
+        "english": "Starting funds can be on one side or split up",
+        "translation": "يمكن أن تضع رأس مالك الأولي على جانب واحد أو تقسيمه"
+    },
+    {
+        "id": "enable_browser_ntfn_info",
+        "context": "html",
+        "english": "Desktop notifications appear even when this window is not active.  When you have other applications open this can be helpful as you will be notified on DCRDEX events.  Customize below the types of notifications you would like to receive.",
+        "translation": "تظهر الإشعارات على سطح المكتب حتى عندما لا تكون هذه النافذة نشطة. عند فتح تطبيقات أخرى، يمكن أن يكون هذا مفيدًا حيث سيتم إخطارك بأحداث منصة المبادلات اللامركزية لديكريد DCRDEX. قم بتخصيص أدناه أنواع الإشعارات التي تود تلقيها."
+    },
+    {
+        "id": "delete_all_archived_records",
+        "context": "html",
+        "english": "Leave unchecked to delete all archived records.",
+        "translation": "اتركه بدون تحديد لحذف جميع السجلات المؤرشفة."
+    },
+    {
+        "id": "per side",
+        "context": "html",
+        "english": "per side",
+        "translation": "لكل جانب"
+    },
+    {
+        "id": "No programs to display",
+        "context": "html",
+        "english": "No programs to display",
+        "translation": "لا توجد برامج لعرضها"
+    },
+    {
+        "id": "Send enough for bonds",
+        "context": "html",
+        "english": "Make sure you send enough to also cover network fees. You may deposit as much as you like to your wallet, since only the bond amount will be used in the next step. The deposit must confirm to proceed.",
+        "translation": "تأكد من إرسال ما يكفي لتغطية رسوم الشبكة أيضاً. يمكنك إيداع المبلغ الذي تريده في محفظتك، حيث سيتم استخدام مبلغ السند فقط في الخطوة التالية. يجب تأكيد الإيداع للمتابعة."
+    },
+    {
+        "id": "add_peer",
+        "context": "html",
+        "english": "Add Peer",
+        "translation": "إضافة نظير"
+    },
+    {
+        "id": "privacy_optional",
+        "context": "html",
+        "english": "Privacy is completely optional, and can be disabled at any time. There are increased transaction fees associated with privacy, but these fees have historically been relatively negligible.",
+        "translation": "الخصوصية اختيارية تماماً، ويمكن تعطيلها في أي وقت. هناك زيادة في رسوم المعاملات المرتبطة بالخصوصية، ولكن هذه الرسوم كانت تاريخياً ضئيلة نسبياً."
+    },
+    {
+        "id": "order_form_remaining_limit",
+        "context": "html",
+        "english": "<span id=\"orderLimitRemain\"></span> lots remaining in tier <span id=\"orderTradingTier\"></span> trading limit",
+        "translation": "<span id=\"orderLimitRemain\"></span> اللوتات المتبقية في المستوى <span id=\"orderTradingTier\"></span> حد التداول"
+    },
+    {
+        "id": "Bond Lock",
+        "context": "html",
+        "english": "Bond Lock",
+        "translation": "قفل السندات"
+    },
+    {
+        "id": "Treasury Keys",
+        "context": "html",
+        "english": "Treasury Keys",
+        "translation": "مفاتيح الخزينة"
+    },
+    {
+        "id": "save_seed_instructions",
+        "context": "html",
+        "english": "Save the following seed somewhere safe. Do not share this with anybody.",
+        "translation": "احفظ البذور التالية في مكان آمن. لا تشاركها مع أي شخص."
+    },
+    {
+        "id": "strategy_absolute",
+        "context": "html",
+        "english": "The spread is set to the specified value both left and right of the mid-gap, resulting in a total gap of twice the specified value.",
+        "translation": "يتم ضبط الفارق إلى القيمة المحددة على كلا الجانبين، يسارًا ويمينًا، من الفجوة الوسطى، مما ينتج عنه فجوة إجمالية تساوي ضعف القيمة المحددة."
+    },
+    {
+        "id": "source",
+        "context": "html",
+        "english": "Source",
+        "translation": "المصدر"
+    },
+    {
+        "id": "Enable",
+        "context": "html",
+        "english": "Enable",
+        "translation": "تفعيل"
+    },
+    {
+        "id": "quickconfig_server_header",
+        "context": "html",
+        "english": "We can connect to these servers.",
+        "translation": "يمكننا الاتصال بهذه الخوادم."
+    },
+    {
+        "id": "Staking",
+        "context": "html",
+        "english": "Staking",
+        "translation": "التحصيص"
+    },
+    {
+        "id": "decred_privacy",
+        "context": "html",
+        "english": "Decred's form of privacy is especially powerful because Decred wallets integrate privacy with staking, which facilitates a consistently large anonymity set, a critical feature for privacy.",
+        "translation": "يُعَدُّ أسلوب الخصوصية في ديكريد قوي بشكل خاص لأن محافظ ديكريد تدمج الخصوصية مع التحصيص، مما يسهل وجود أدوات إخفاء كبير للهوية بشكل مستمر، وهي ميزة حاسمة للخصوصية."
+    },
+    {
+        "id": "Backup App Seed",
+        "context": "html",
+        "english": "Backup App Seed",
+        "translation": "انسخ إحتياطياً بذرة التطبيق"
+    },
+    {
+        "id": "Disable Privacy",
+        "context": "html",
+        "english": "Disable Privacy",
+        "translation": "تعطيل الخصوصية"
+    },
+    {
+        "id": "Taker Redemption",
+        "context": "html",
+        "english": "Taker Redemption",
+        "translation": "استرداد المستفيذ"
+    },
+    {
+        "id": "subtract_fees_from_amount",
+        "context": "html",
+        "english": "Subtract fees from amount sent.",
+        "translation": "طرح الرسوم من المبلغ المرسل."
+    },
+    {
+        "id": "quote_balance",
+        "context": "html",
+        "english": "Quote Balance",
+        "translation": "طلب أسعار الرصيد"
+    },
+    {
+        "id": "Skip Registration",
+        "context": "html",
+        "english": "No account (view-only mode)",
+        "translation": "لا يوجد حساب (وضع المشاهدة فقط)"
+    },
+    {
+        "id": "current_bonding_asset",
+        "context": "html",
+        "english": "Using <img data-tmpl=\"currentAssetLogo\" class=\"mini-icon\"> <span data-tmpl=\"currentAssetName\"></span> for bonding",
+        "translation": "استخدام <img data-tmpl=\"currentAssetLogo\" class=\"mini-icon\"> <span data-tmpl=\"currentAssetName\"></span> للسندات"
+    },
+    {
+        "id": "Trading Limits",
+        "context": "html",
+        "english": "Trading Limits",
+        "translation": "حدود التداول"
+    },
+    {
+        "id": "gap_strategy_absolute",
+        "context": "html",
+        "english": "Absolute",
+        "translation": "المطلقة"
+    },
+    {
+        "id": "Update",
+        "context": "html",
+        "english": "Update",
+        "translation": "تحديث"
+    },
+    {
+        "id": "prevent_temporary_overlocking",
+        "context": "html",
+        "english": "Prevent temporary over-locking of funds",
+        "translation": "منع الإفراط في قفل الأموال بشكل مؤقت"
+    },
+    {
+        "id": "select_vsp_from_list",
+        "context": "html",
+        "english": "Select a Voting Service Provider",
+        "translation": "اختر مزود خدمة التصويت"
+    },
+    {
+        "id": "Configure",
+        "context": "html",
+        "english": "Configure",
+        "translation": "التهيئة"
+    },
+    {
+        "id": "base_balance",
+        "context": "html",
+        "english": "Base Balance",
+        "translation": "الرصيد الأساسي"
+    },
+    {
+        "id": "Select your bond asset",
+        "context": "html",
+        "english": "Select your bond asset",
+        "translation": "اختر أصل السند الخاص بك"
+    },
+    {
+        "id": "Confirm Registration",
+        "version": 1,
+        "context": "html",
+        "english": "Confirm Registration and Bonding",
+        "translation": "تأكيد التسجيل والسند"
+    },
+    {
+        "id": "bond_id",
+        "context": "html",
+        "english": "Bond ID",
+        "translation": "معرف السندات"
+    },
+    {
+        "id": "drift_tolerance_tooltip",
+        "context": "html",
+        "english": "How far from the ideal price orders are allowed to drift before they are cancelled and re-booked.",
+        "translation": "إلى أي مدى يُسمح لطلبيات الشراء بالانحراف عن السعر المثالي قبل أن يتم إلغاؤها وإعادة حجزها."
+    },
+    {
+        "id": "privacy_intro",
+        "context": "html",
+        "english": "When privacy is enabled, all of your funds will be sent through an address history obfuscation service using a protocol called CoinShuffle++.",
+        "translation": "عندما يتم تمكين الخصوصية، سيتم إرسال جميع أموالك من خلال خدمة تشويش على سجل العناوين باستخدام بروتوكول يسمى ++CoinShuffle."
+    },
+    {
+        "id": "Fee unavailable",
+        "context": "html",
+        "english": "Fee unavailable",
+        "translation": "الرسوم غير متوفرة"
+    },
+    {
+        "id": "Ticket History",
+        "context": "html",
+        "english": "Ticket History",
+        "translation": "تاريخ التذاكر"
+    },
+    {
+        "id": "base_asset_balance_tooltip",
+        "context": "html",
+        "english": "The amount of the base asset to allocate for this bot. If the upper end of this range is < 100%, it means that the rest of the balance was allocated to other bots.",
+        "translation": "مقدار الرصيد الأساسي المطلوب تخصيصه لهذا البوت. إذا كان الحد الأعلى لهذا النطاق < 100%، فهذا يعني أن باقي الرصيد تم تخصيصه لبوتات أخرى."
+    },
+    {
+        "id": "Privacy",
+        "context": "html",
+        "english": "Privacy",
+        "translation": "الخصوصية"
+    },
+    {
+        "id": "reset_app_pw_msg",
+        "context": "html",
+        "english": "Reset your app password using your app seed. If you provide the correct app seed, you can login again with the new password.",
+        "translation": "أعد تعيين كلمة مرور التطبيق الخاصة بك باستخدام بذرة التطبيق الخاصة بك. إذا قمت بتوفير بذرة التطبيق الصحيحة، فيمكنك تسجيل الدخول مرة أخرى بكلمة المرور الجديدة."
+    },
+    {
+        "id": "target_maint_bullet",
+        "context": "html",
+        "english": "Program maintains lots currently on order and unfilled",
+        "translation": "البرنامج يحافظ على اللوتات الحالية قيد الطلب وغير المكتملة"
+    },
+    {
+        "id": "sweep_order",
+        "context": "html",
+        "english": "Hide this fully executed order",
+        "translation": "إخفاء هذا الطلب المنفذ بالكامل"
+    },
+    {
+        "id": "Privacy active",
+        "context": "html",
+        "english": "Privacy active",
+        "translation": "الخصوصية مفعلة"
+    },
+    {
+        "id": "configure_cex_prompt",
+        "context": "html",
+        "english": "Configure your exchange API to enable arbitrage features.",
+        "translation": "قم بتهيئة واجهة برمجة التطبيقات (API) الخاصة بك في منصة المبادلات لتفعيل ميزات المراجحة."
+    },
+    {
+        "id": "disable_wallet_warning",
+        "context": "html",
+        "english": "Note: This wallet will not be connected to when you start the DEX client software and cannot be used until it is enabled. This will also disable all token wallets that depend on this wallet.",
+        "translation": "ملاحظة: لن يتم الاتصال بهذه المحفظة عند بدء تشغيل برنامج عميل منصة المبادلات اللامركزية DEX ولا يمكن استخدامها حتى يتم تفعيلها. سيؤدي هذا أيضًا إلى تعطيل جميع محافظ التوكنات التي تعتمد على هذه المحفظة."
+    },
+    {
+        "id": "Backup Now",
+        "context": "html",
+        "english": "Backup Now",
+        "translation": "اعمل نسخة احتياطية الان"
+    },
+    {
+        "id": "archived_date_tooltip",
+        "context": "html",
+        "english": "Archived orders and matches created before your specified and date and time will be deleted from the database.",
+        "translation": "سيتم حذف الطلبات المؤرشفة والمطابقات التي تم إنشاؤها قبل التاريخ والوقت المحددين من قاعدة البيانات."
+    },
+    {
+        "id": "market_making_running",
+        "context": "html",
+        "english": "Market making is running",
+        "translation": "يتم تشغيل صناعة السوق"
+    },
+    {
+        "id": "Market not available",
+        "context": "html",
+        "english": "Market not available",
+        "translation": "السوق غير متوفر"
+    },
+    {
+        "id": "Your Programs",
+        "context": "html",
+        "english": "Your Programs",
+        "translation": "برامجك"
+    },
+    {
+        "id": "bond_strength",
+        "context": "html",
+        "english": "Bond Strength",
+        "translation": "قوة السند"
+    },
+    {
+        "id": "Yes",
+        "context": "html",
+        "english": "Yes",
+        "translation": "نعم"
+    },
+    {
+        "id": "unapprove_token_version",
+        "context": "html",
+        "english": "Remove Token Allowances for <span id=\"tokenAllowanceRemoveSymbol\"></span>, Version <span id=\"tokenAllowanceRemoveVersion\"></span>",
+        "translation": "إزالة مخصصات التوكن ل <span id=\"tokenAllowanceRemoveSymbol\"></span>، الإصدار <span id=\"tokenAllowanceRemoveVersion\"></span>"
+    },
+    {
+        "id": "Send funds for token",
+        "context": "html",
+        "english": "Deposit at least <span data-tmpl=\"tokenFees\"></span> <span class=\"unit\">XYZ</span> and <span data-tmpl=\"parentFees\"></span> <span data-tmpl=\"parentUnit\">XYZ</span> to also cover fees. You may deposit as much as you like to your wallet, since only the required amount will be used in the next step. The deposit must confirm to proceed.",
+        "translation": "قم بإيداع ما لا يقل عن <span data-tmpl=\"tokenFees\"></span> <span class=\"unit\">XYZ</span> و <span data-tmpl=\"parentFees\"></span> <span data-tmpl=\"parentUnit\">XYZ</span> لتغطية الرسوم أيضًا. يمكنك إيداع المبلغ الذي تريده في محفظتك، حيث سيتم استخدام المبلغ المطلوب فقط في الخطوة التالية. يجب تأكيد الإيداع للمتابعة."
+    },
+    {
+        "id": "enable_rebalance_tooltip",
+        "context": "html",
+        "english": "Transfer funds between wallet and CEX as needed and without prompt",
+        "translation": "تحويل الأموال بين المحفظة ومنصة المبادلات المركزية CEX حسب الحاجة ودون تلقي تعليمات"
+    },
+    {
+        "id": "arb_transfer_tooltip",
+        "context": "html",
+        "english": "The mimimum amount that can be transferred",
+        "translation": "الحد الأدنى للمبلغ الذي يمكن تحويله"
+    },
+    {
+        "id": "Active tickets",
+        "context": "html",
+        "english": "Active tickets",
+        "translation": "التذاكر النشطة"
+    },
+    {
+        "id": "configuration guide",
+        "context": "html",
+        "english": "configuration guide",
+        "translation": "دليل التكوين"
+    },
+    {
+        "id": "tx_details",
+        "context": "html",
+        "english": "Transaction Details",
+        "translation": "تفاصيل المعاملة"
+    },
+    {
+        "id": "reg_confirm_submit",
+        "version": 1,
+        "context": "html",
+        "english": "When you submit this form, funds from your wallet will be temporarily locked into a fidelity bond contract, which is redeemable by you in the future.",
+        "translation": "عند إرسال هذا النموذج، سيتم قفل الأموال من محفظتك مؤقتًا في عقد سند الإخلاص، والذي يمكنك استرداده في المستقبل."
+    },
+    {
+        "id": "Queued tickets",
+        "context": "html",
+        "english": "Queued tickets",
+        "translation": "تذاكر في قائمة الانتظار"
+    },
+    {
+        "id": "cspp_addr",
+        "context": "html",
+        "english": "CSPP Server Address",
+        "translation": "عنوان خادم CSPP"
+    },
+    {
+        "id": "sell_placements_tooltip",
+        "context": "html",
+        "english": "Define the sell placements for the bot. The bot will place orders in the order of priority if balance is not enough to place all the orders.",
+        "translation": "حدد مواضع البيع للبوت. سيقوم البوت بوضع الطلبات حسب الأولوية إذا لم يكن الرصيد كافيًا لوضع جميع الطلبات."
+    },
+    {
+        "id": "bonds_pending_refund",
+        "context": "html",
+        "english": "Bonds Pending Refund",
+        "translation": "السندات في انتظار الاسترداد"
+    },
+    {
+        "id": "add_a_bot",
+        "context": "html",
+        "english": "Add a Bot",
+        "translation": "إضافة بوت"
+    },
+    {
+        "id": "Token on",
+        "context": "html",
+        "english": "Token on",
+        "translation": "التوكن مُفعَّل"
+    },
+    {
+        "id": "bond_cost_breakdown",
+        "context": "html",
+        "english": "Includes <span data-tmpl=\"bondLockNoFees\"></span> for your bond and <span data-tmpl=\"bondLockFees\"></span> for transaction fees",
+        "translation": "يشمل <span data-tmpl=\"bondLockNoFees\"></span> لسندك و <span data-tmpl=\"bondLockFees\"></span> لرسوم المعاملة"
+    },
+    {
+        "id": "token_approval_tx_msg",
+        "context": "html",
+        "english": "Your token approval has been submitted with transaction ID:",
+        "translation": "تم إرسال الموافقة بالتوكن الخاص بك مع معرف المعاملة:"
+    },
+    {
+        "id": "UnknownBondTierZero subject",
+        "context": "notifications",
+        "english": "Unknown bond found",
+        "translation": "تم العثور على سند غير معروف"
+    },
+    {
+        "id": "BondWalletNotConnected template",
+        "context": "notifications",
+        "english": "Wallet for selected bond asset %s is not connected",
+        "translation": "المحفظة الخاصة بأصل السندات المحدد %s غير متصلة"
+    },
+    {
+        "id": "AsyncOrderFailure subject",
+        "context": "notifications",
+        "english": "In-Flight Order Error",
+        "translation": "خطأ في الطلب القيد التنفيذ"
+    },
+    {
+        "id": "BondConfirmed subject",
+        "context": "notifications",
+        "english": "Bond confirmed",
+        "translation": "تم تأكيد السند"
+    },
+    {
+        "id": "BuyMatchesMade template",
+        "version": 1,
+        "context": "notifications",
+        "notes": "args: [base ticker, quote ticker, fill percent, token]",
+        "english": "Buy order on %s-%s %.1f%% filled (%s)",
+        "translation": "طلب شراء على %s-%s %.1f%% مُنفّذ بنسبة (%s) "
+    },
+    {
+        "id": "FailedCancel template",
+        "version": 1,
+        "context": "notifications",
+        "notes": "args: [token], \"failed\" means we missed the preimage request and either got the revoke_order message or it stayed in epoch status for too long.",
+        "english": "Cancel order for order %s failed and is now deleted.",
+        "translation": "فشل إلغاء الطلب للطلب %s وتم حذفه الآن."
+    },
+    {
+        "id": "AccountRegTier subject",
+        "context": "notifications",
+        "english": "Account registered",
+        "translation": "حساب مسجل"
+    },
+    {
+        "id": "SendSuccess template",
+        "version": 1,
+        "context": "notifications",
+        "notes": "args: [value string, ticker, destination address, coin ID]",
+        "english": "Sending %s %s to %s has completed successfully. Tx ID = %s",
+        "translation": "تم إرسال %s %s إلى %s بنجاح. معرف المعاملة Tx ID = %s"
+    },
+    {
+        "id": "UnknownBondTierZero template",
+        "context": "notifications",
+        "notes": "args: [bond asset, dex host]",
+        "english": "Unknown %s bonds were found and added to active bonds but your target tier is zero for the dex at %s. Set your target tier in Settings to stay bonded with auto renewals.",
+        "translation": "تم العثور على سندات %s مجهولة وأضيفت إلى السندات النشطة ولكن الفئة المستهدفة الخاصة بك هي صفر لمنصة المبادلات اللامركزية dex في %s. قم بتعيين الفئة المستهدفة في الإعدادات للبقاء مرتبطًا بتجديدات تلقائية."
+    },
+    {
+        "id": "DexAuthErrorBond subject",
+        "context": "notifications",
+        "english": "Authentication error",
+        "translation": "خطأ في المصادقة"
+    },
+    {
+        "id": "BondRefunded template",
+        "context": "notifications",
+        "notes": "args: [bondIDStr, acct.host, refundCoinStr, refundVal, Amount]",
+        "english": "Bond %v for %v refunded in %v, reclaiming %v of %v after tx fees",
+        "translation": "تم استرداد السند %v لـ %v بـ %v، واستعادة %v من %v بعد رسوم المعاملات"
+    },
+    {
+        "id": "BondPostError subject",
+        "context": "notifications",
+        "english": "Bond post error",
+        "translation": "خطأ في وظيفة السندات"
+    },
+    {
+        "id": "BondPostErrorConfirm template",
+        "context": "notifications",
+        "english": "Error encountered while waiting for bond confirms for %s: %v",
+        "translation": "تم مواجهة خطأ أثناء انتظار تأكيدات السند لـ %s: %v"
+    },
+    {
+        "id": "SellMatchesMade template",
+        "version": 1,
+        "context": "notifications",
+        "notes": "args: [base ticker, quote ticker, fill percent, token]",
+        "english": "Sell order on %s-%s %.1f%% filled (%s)",
+        "translation": "طلب بيع على %s-%s مُنفّذ بنسبة (%s) "
+    },
+    {
+        "id": "BondConfirmed template",
+        "context": "notifications",
+        "notes": "args: [effectiveTier, targetTier]",
+        "english": "New tier = %d (target = %d).",
+        "translation": "الفئة الجديدة = %d (الهدف = %d)."
+    },
+    {
+        "id": "OrderResumeFailure subject",
+        "context": "notifications",
+        "english": "Resume order failure",
+        "translation": "استئناف فشل الطلب"
+    },
+    {
+        "id": "SellOrderPlaced template",
+        "version": 1,
+        "context": "notifications",
+        "notes": "args: [qty, ticker, rate string, token]",
+        "english": "Selling %s %s, rate = %s (%s)",
+        "translation": "بيع %s %s، بمعدل = %s (%s)"
+    },
+    {
+        "id": "AsyncOrderFailure template",
+        "context": "notifications",
+        "notes": "args: order ID, error]",
+        "english": "In-Flight order with ID %v failed: %v",
+        "translation": "فشل: %v الطلب قيد التنفيذ بالمعرف %v"
+    },
+    {
+        "id": "BondPostError template",
+        "context": "notifications",
+        "notes": "args: [err, err]",
+        "english": "postbond request error (will retry): %v (%T)",
+        "translation": "خطأ في طلب السند (سيتم إعادة المحاولة): %v (%T)"
+    },
+    {
+        "id": "BondExpired subject",
+        "context": "notifications",
+        "english": "Bond expired",
+        "translation": "انتهت صلاحية السند"
+    },
+    {
+        "id": "BondConfirming template",
+        "context": "notifications",
+        "notes": "args: [reqConfs, bondCoinStr, assetID, acct.host]",
+        "english": "Waiting for %d confirmations to post bond %v (%s) to %s",
+        "translation": "في انتظار %d تأكيدات لنشر السند %v (%s) إلى %s"
+    },
+    {
+        "id": "BuyOrderCanceled template",
+        "version": 1,
+        "context": "notifications",
+        "notes": "args: [base ticker, quote ticker, host, token]",
+        "english": "Buy order on %s-%s at %s has been canceled (%s)",
+        "translation": "تم إلغاء (%s) طلب الشراء على %s-%s بسعر %s"
+    },
+    {
+        "id": "DEXConnectivity template",
+        "context": "notifications",
+        "notes": "args: [host]",
+        "english": "Your internet connection to %s is unstable, check your internet connection",
+        "translation": "اتصالك بالإنترنت إلى %s غير مستقر، تحقق من اتصالك بالإنترنت"
+    },
+    {
+        "id": "OrderResumeFailure template",
+        "context": "notifications",
+        "english": "Failed to resume processing of trade: %v",
+        "translation": "فشل في استئناف معالجة عملية التداول: %v"
+    },
+    {
+        "id": "WalletTypeDeprecated template",
+        "context": "notifications",
+        "english": "Your %s wallet type is no longer supported. Create a new wallet.",
+        "translation": "لم يعد نوع محفظتك %s مدعوماً. قم بإنشاء محفظة جديدة."
+    },
+    {
+        "id": "BondWalletNotConnected subject",
+        "context": "notifications",
+        "english": "Bond wallet not connected",
+        "translation": "محفظة السندات غير متصلة"
+    },
+    {
+        "id": "BondPostErrorConfirm subject",
+        "context": "notifications",
+        "english": "Bond post error",
+        "translation": "خطأ في وظيفة السندات"
+    },
+    {
+        "id": "OrderQuantityTooHigh subject",
+        "context": "notifications",
+        "english": "Trade limit exceeded",
+        "translation": "تم تجاوز حدود التداول"
+    },
+    {
+        "id": "BondExpired template",
+        "context": "notifications",
+        "notes": "args: [effectiveTier, targetTier]",
+        "english": "New tier = %d (target = %d).",
+        "translation": "المستوى الجديد = %d (الهدف = %d)."
+    },
+    {
+        "id": "BondConfirming subject",
+        "context": "notifications",
+        "english": "Confirming bond",
+        "translation": "تأكيد السند"
+    },
+    {
+        "id": "DexAuthErrorBond template",
+        "context": "notifications",
+        "notes": "args: [err]",
+        "english": "Bond confirmed, but failed to authenticate connection: %v",
+        "translation": "تم تأكيد السند، ولكن فشل في التحقق من صحة الاتصال: %v"
+    },
+    {
+        "id": "DEXConnectivity subject",
+        "context": "notifications",
+        "english": "Internet Connectivity",
+        "translation": "الاتصال بالإنترنت"
+    },
+    {
+        "id": "AccountRegTier template",
+        "context": "notifications",
+        "notes": "args: [effectiveTier]",
+        "english": "New tier = %d",
+        "translation": "المستوى الجديد = %d"
+    },
+    {
+        "id": "BuyOrderPlaced template",
+        "version": 1,
+        "context": "notifications",
+        "notes": "args: [qty, ticker, rate string, token]",
+        "english": "Buying %s %s, rate = %s (%s)",
+        "translation": "شراء %s %s، السعر = %s (%s)"
+    },
+    {
+        "id": "BondRefunded subject",
+        "context": "notifications",
+        "english": "Bond refunded",
+        "translation": "استرداد السندات"
+    },
+    {
+        "id": "OrderQuantityTooHigh template",
+        "context": "notifications",
+        "notes": "args: [host]",
+        "english": "Order quantity exceeds current trade limit on %s",
+        "translation": "كمية الطلب تتجاوز حد التداول الحالي على %s"
+    },
+    {
+        "id": "WalletTypeDeprecated subject",
+        "context": "notifications",
+        "english": "Wallet Disabled",
+        "translation": "المحفظة معطلة"
+    },
+    {
+        "id": "SendError template",
+        "version": 1,
+        "context": "notifications",
+        "notes": "args: [ticker, error]",
+        "english": "Error encountered while sending %s: %v",
+        "translation": "حدث خطأ أثناء إرسال %s: %v"
+    },
+    {
+        "id": "ShieldedSendSuccess subject",
+        "context": "notifications",
+        "english": "Shielded send successful",
+        "translation": "تم الإرسال المحجوب بنجاح"
+    },
+    {
+        "id": "SellOrderCanceled template",
+        "version": 1,
+        "context": "notifications",
+        "english": "Sell order on %s-%s at %s has been canceled (%s)",
+        "translation": "تم إلغاء (%s) طلب البيع على %s-%s بسعر %s"
+    },
+    {
+        "id": "ShieldedSendSuccess template",
+        "context": "notifications",
+        "notes": "args: [value string, ticker, destination address, coin ID]",
+        "english": "Sent %s %s to %s: %s",
+        "translation": "تم إرسال %s %s إلى %s: %s"
+    }
+]
